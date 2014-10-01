@@ -1,5 +1,5 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#Modifiers
+#Modifiers;;;;;;;;;;;;;;
 additional_tribute;Additional Tribute;;;;;;;;;;;;;x
 triple_tribute;Triple Tribute;;;;;;;;;;;;;x
 allowed_local_justice;Allowed Local Justice;;;;;;;;;;;;;x
@@ -21,7 +21,7 @@ koliada_own_costume;Outfit in my own name;;;;;;;;;;;;;x
 koliada_simple_costume;Simple outfit;;;;;;;;;;;;;x
 koliada_no_costume;Declined to participate in Koliada;;;;;;;;;;;;;x
 held_koliada;Held Koliada;;;;;;;;;;;;;x
-#Traits
+#Traits;;;;;;;;;;;;;;
 dazbog_believer;Prefers Dazbog;;;;;;;;;;;;;x
 dazbog_believer_desc;This character thinks Dazbog is the greatest Slavic god.;;;;;;;;;;;;;x
 jarilo_believer;Prefers Jarilo;;;;;;;;;;;;;x
@@ -54,4 +54,3 @@ laima_believer;Prefers Laima;;;;;;;;;;;;;x
 laima_believer_desc;This character thinks Laima is the greatest Romuva god.;;;;;;;;;;;;;x
 zemyna_believer;Prefers Zemyna;;;;;;;;;;;;;x
 zemyna_believer_desc;This character thinks Zemyna is the greatest Romuva god.;;;;;;;;;;;;;x
-#;;;;;;;;;;;;;x

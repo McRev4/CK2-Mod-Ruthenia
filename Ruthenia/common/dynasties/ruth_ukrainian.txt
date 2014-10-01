@@ -1,0 +1,112 @@
+#Ukrainian culture dynasty names for CK2 Ruthenia mod
+#Ukrainian names start at 2,000,200 (2000200)
+
+2000200 = {
+	name="Kievskiy"
+	culture = ukrainian
+}
+2000201 = {
+	name="Kholmsky"
+	culture = ukrainian
+}
+2000202 = {
+	name="Boryatinskiy"
+	culture = ukrainian
+}
+2000203 = {
+	name="Novotorgsky"
+	culture = ukrainian
+}
+2000204 = {
+	name="Rumyanets"
+	culture = ukrainian
+}
+2000205 = {
+	name="Cherkassky"
+	culture = ukrainian
+}
+2000206 = {
+	name="Glinsky"
+	culture = ukrainian
+}
+2000207 = {
+	name="Miloslavsky"
+	culture = ukrainian
+}
+2000208 = {
+	name="Obolensky"
+	culture = ukrainian
+}
+2000209 = {
+	name="Bogolyubsky"
+	culture = ukrainian
+}
+2000210 = {
+	name="Volynsky"
+	culture = ukrainian
+}
+2000211 = { 
+	name = "Slutsky"
+	culture=ukrainian
+}
+
+2000212 = { 
+	name = "Zaslavsky"
+	culture=ukrainian
+}
+2000213 = { 
+	name = "Vyshnevetsky"
+	culture=ukrainian
+}
+2000214 = { 
+	name = "Pronsky"
+	culture=ukrainian
+}
+2000215 = { 
+	name = "Holovchynsky"
+	culture=ukrainian
+}
+2000216 = { 
+	name = "Ostrozky"
+	culture=ukrainian
+}
+2000217 = { 
+	name = "Kropyvnytsky"
+	culture=ukrainian
+}
+2000218 = { 
+	name = "Kopystensky"
+	culture=ukrainian
+}
+2000219 = { 
+	name = "Kosynsky"
+	culture=ukrainian
+}
+2000220 = { 
+	name = "Konashevych"
+	culture=ukrainian
+}
+2000221 = { 
+	name = "Khmelnytsky"
+	culture=ukrainian
+}
+2000222 = { 
+	name = "Sulyma"
+	culture=ukrainian
+}
+2000223 = { 
+	name = "Morozenko"
+	culture=ukrainian
+}
+2000224 = { 
+	name = "Drahomyretsky"
+	culture=ukrainian
+}
+2000225 = { 
+	name = "Yavorsky"
+	culture=ukrainian
+}
+2000226 = { 
+	name = "Mohyla"
+	culture=ukrainian
+}

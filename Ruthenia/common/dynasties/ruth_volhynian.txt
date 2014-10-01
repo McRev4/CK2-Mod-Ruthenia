@@ -1,0 +1,31 @@
+#Volhynian culture dynasty names for CK2 Ruthenia mod
+#Volhynian names start at 2,000,500 (2000500)
+
+2000500 = {
+	name="Volhynsky"
+	culture = volhynian
+}
+2000501 = {
+	name="Volynskyi"
+	culture=volhynian
+}
+2000502 = {
+	name="Buzhanyn"
+	culture=volhynian
+}
+2000503 = {
+	name="Dulib"
+	culture=volhynian
+}
+2000504 = {
+	name="Lutskyi"
+	culture=volhynian
+}
+2000505 = {
+	name="Styrskyi"
+	culture=volhynian
+}
+2000506 = {
+	name="Koretskyi"
+	culture=volhynian
+}

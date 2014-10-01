@@ -1,0 +1,30 @@
+#Dregovych culture dynasty names for CK2 Ruthenia mod
+#Dregovych names start at 2,000,700 (2000700)
+
+1029117 = {
+	name="Dregovich"
+	culture = dregovich
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 7 0 5 5
+		}
+		religion="slavic_pagan"
+	}
+}
+
+2000700 = {
+	name="Turovych"
+	culture=dregovich
+}
+
+2000701 = {
+	name="Pinschuck"
+	culture=dregovich
+}
+
+2000702 = {
+	name="Yaseldych"
+	culture=dregovich
+}

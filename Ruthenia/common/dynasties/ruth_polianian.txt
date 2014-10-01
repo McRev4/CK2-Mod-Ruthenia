@@ -1,0 +1,31 @@
+#Polianian culture dynasty names for CK2 Ruthenia mod
+#Polianian names start at 2,000,600 (2000600)
+
+2000600 = {
+	name = "Polianian"
+	culture=polianian
+}
+2000601 = { 
+	name = "Kievych"
+	culture=polianian
+}
+2000602 = { 
+	name="Bozhych"
+	culture=polianian
+}
+2000603 = { 
+	name="Polishchuk"
+	culture=polianian
+}
+2000604 = { 
+	name="Prypyatych"
+	culture=polianian
+}
+2000605 = { 
+	name="Slutskyi"
+	culture=polianian
+}
+2000606 = { 
+	name="Dniprovych"
+	culture=polianian
+}

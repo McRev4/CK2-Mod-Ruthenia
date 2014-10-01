@@ -1,0 +1,28 @@
+#Severian culture dynasty names for CK2 Ruthenia mod
+#Severian names start at 2,000,800 (2000800)
+
+1029138 = {
+	name= "Seversky"
+	culture = severian
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 3 0 7 7
+		}
+		religion="slavic_pagan"
+	}
+}
+
+2000800 = {
+	name="Pereiaslavskyi"
+	culture=severian
+}
+2000801 = {
+	name="Chernihivskyi"
+	culture=severian
+}
+2000802 = {
+	name="Desnovych"
+	culture=severian
+}

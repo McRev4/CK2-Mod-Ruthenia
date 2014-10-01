@@ -1,0 +1,172 @@
+#Ruthenian culture dynasty names for CK2 Ruthenia mod
+#Ruthenian names start at 2,000,100 (2000100)
+
+705 = {
+	name="Rurikid"
+	culture = ruthenian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 39
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+}
+
+2000100 = {
+	name="Izyaslavich"
+	culture = ruthenian
+}
+2000101 = {
+	name="Mikulinich"
+	culture = ruthenian
+}
+2000102 = {
+	name="Miroslavich"
+	culture = ruthenian
+}
+2000103 = {
+	name="Ivankovich"
+	culture = ruthenian
+}
+2000104 = {
+	name="Zakharyinich"
+	culture = ruthenian
+}
+2000105 = {
+	name="Lyakhovich"
+	culture = ruthenian
+}
+2000106 = {
+	name="Nerevinich"
+	culture = ruthenian
+}
+2000107 = {
+	name="Stepanovich"
+	culture = ruthenian
+}
+2000108 = {
+	name="Nezdinich"
+	culture = ruthenian
+}
+2000109 = {
+	name="Feofilaktovich"
+	culture = ruthenian
+}
+2000110 = {
+	name="Klimovich"
+	culture = ruthenian
+}
+2000111 = {
+	name="Vyshatich"
+	culture = ruthenian
+}
+2000112 = {
+	name="Artamonovich"
+	culture = ruthenian
+}
+2000113 = {
+	name="Osipovich"
+	culture = ruthenian
+}
+2000114 = {
+	name="Paskevich"
+	culture = ruthenian
+}
+2000115 = {
+	name="Andreievich"
+	culture = ruthenian
+}
+2000116 = {
+	name="Bryachislavich"
+	culture = ruthenian
+}
+2000117 = {
+	name="Igorevich"
+	culture = ruthenian
+}
+2000118 = {
+	name="Ivanovich"
+	culture = ruthenian
+}
+2000119 = {
+	name="Iziaslavich"
+	culture = ruthenian
+}
+2000120 = {
+	name="Mikhailovich"
+	culture = ruthenian
+}
+2000121 = {
+	name="Mstislavich"
+	culture = ruthenian
+}
+2000122 = {
+	name="Nikitich"
+	culture = ruthenian
+}
+2000123 = {
+	name="Rostislavich"
+	culture = ruthenian
+}
+2000124 = {
+	name="Sviatoslavich"
+	culture = ruthenian
+}
+2000125 = {
+	name="Vasilievich"
+	culture = ruthenian
+}
+2000126 = {
+	name="Viacheslavich"
+	culture = ruthenian
+}
+2000127 = {
+	name="Vladimirovich"
+	culture = ruthenian
+}
+2000128 = {
+	name="Vseslavich"
+	culture = ruthenian
+}
+2000129 = {
+	name="Vsevolodovich"
+	culture = ruthenian
+}
+2000130 = {
+	name="Vysheslavich"
+	culture = ruthenian
+}
+2000131 = {
+	name="Yaroslavich"
+	culture = ruthenian
+}
+2000132 = {
+	name="Yurievich"
+	culture = ruthenian
+}
+2000133 = {
+	name="Dmitrievich"
+	culture = ruthenian
+}
+2000134 = {
+	name="Fedorovich"
+	culture = ruthenian
+}
+2000135 = {
+	name="Davidovich"
+	culture = ruthenian
+}
+2000136 = {
+	name="Vsevolodich"
+	culture = ruthenian
+}
+2000137 = {
+	name="Danilovich"
+	culture = ruthenian
+}

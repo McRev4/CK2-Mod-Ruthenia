@@ -1,0 +1,39 @@
+#Krivich culture dynasty names for CK2 Ruthenia mod
+#Krivich names start at 2,001,100 (2001100)
+
+1029116 = {
+	name="Kryvich"
+	culture = krivich
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 3 0 5 5
+		}
+		religion="slavic_pagan"
+	}
+}
+
+2001100 = {
+	name="Smolianych"
+	culture=krivich
+}
+2001101 = {
+	name="Izborych"
+	culture=krivich
+}
+
+2001102 = {
+	name="Rohvolodych"
+	culture=krivich
+}
+
+2001103 = {
+	name="Dvinych"
+	culture=krivich
+}
+
+2001104 = {
+	name="Chudych"
+	culture=krivich
+}

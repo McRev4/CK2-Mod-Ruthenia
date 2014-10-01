@@ -45,10 +45,6 @@
 	name="Jogailaitis"
 	culture = lithuanian
 }
-10 = {
-	name="Mikhailovich"
-	culture = ruthenian
-}
 11 = {
 	name="Gediminaitis"
 	culture = lithuanian
@@ -67,10 +63,6 @@
 12 = {
 	name="Sartaq"
 	culture = mongol
-}
-13 = {
-	name="Fyodyorov"
-	culture = ruthenian
 }
 15 = {
 	name="Mengu-Timur"
@@ -939,14 +931,6 @@
 	name="Montferrato"
 	culture = italian
 }
-168 = {
-	name="Andreievich"
-	culture = ruthenian
-}
-169 = {
-	name="Dobrynich"
-	culture = ruthenian
-}
 170 = {
 	name="Kuchka"
 	culture = armenian
@@ -991,10 +975,6 @@
 	name="Somogy"
 	culture = hungarian
 }
-181 = {
-	name="Kievskiy"
-	culture = ruthenian
-}
 182 = {
 	name="Árpády"
 	culture = hungarian
@@ -1033,10 +1013,6 @@
 			color = 0
 		}
 	}
-}
-186 = {
-	name="Kholmsky"
-	culture = ruthenian
 }
 188 = {
 	name="Macrodoukas"
@@ -2893,10 +2869,6 @@
 		}
 	}
 }
-503 = {
-	name="Izyaslavich"
-	culture = ruthenian
-}
 504 = {
 	name="Wolin" #of Poland
 	culture = polish
@@ -4305,30 +4277,6 @@
 		religion=orthodox
 	}
 }
-703 = {
-	name="Vyatich" #of Polotsk
-	culture = ruthenian
-}
-704 = {
-	name="Lyubechanin"
-	culture = ruthenian
-}
-705 = {
-	name="Rurikid"
-	culture = ruthenian
-	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 3
-			texture_internal = 39
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
-	}
-	used_for_random = no
-}
 706 = {
 	name="Prochaska" #of Moravia
 	culture = german
@@ -5455,11 +5403,6 @@
 862 = {
 	name="Vogelius"
 	culture = danish
-	used_for_random = no
-}
-863 = {
-	name="Ivannikov"
-	culture = ruthenian
 	used_for_random = no
 }
 864 = {
@@ -10204,10 +10147,6 @@
 		religion="slavic_pagan"
 	}
 }
-9125 = {
-	name="Volynskyj"
-	culture = ruthenian
-}
 9126 = {
 	name="Suvalkija"
 	culture = lithuanian
@@ -10792,26 +10731,6 @@
 11100 = {
 	name="Borjigin"
 	culture = mongol
-}
-11102 = {
-	name="Miroslavich"
-	culture = ruthenian
-}
-11103 = {
-	name="Ivankovich"
-	culture = ruthenian
-}
-11105 = {
-	name="Zakharyinich"
-	culture = ruthenian
-}
-11107 = {
-	name="Stepanovich"
-	culture = ruthenian
-}
-11110 = {
-	name="Klimovich"
-	culture = ruthenian
 }
 11111 = {
 	name="Chodkiewicz"
@@ -12918,10 +12837,6 @@
 	name="Marko"
 	culture = bulgarian
 }
-17012 = {
-	name="Konstantinov"
-	culture = ruthenian
-}
 18000 = {
 	name="Vukanovic"
 	culture = serbian
@@ -13566,10 +13481,6 @@
 20079 = {
 	name="Muhajir"
 	culture = maghreb_arabic
-}
-20080 = {
-	name="Vyshatich"
-	culture = ruthenian
 }
 20083 = {
 	name="a Áengusa"
@@ -16357,14 +16268,6 @@
 	name="Pahlen"
 	culture = german
 }
-100406 = {
-	name="Ignatiev"
-	culture = ruthenian
-}
-100408 = {
-	name="Cherkassky"
-	culture = ruthenian
-}
 100411 = {
 	name="Saar"
 	culture = finnish
@@ -16372,10 +16275,6 @@
 100416 = {
 	name="Giedraitis"
 	culture = lithuanian
-}
-100417 = {
-	name="Glinsky"
-	culture = ruthenian
 }
 100418 = {
 	name="Radvila"
@@ -16877,18 +16776,6 @@
 	name="Korybut"
 	culture = lithuanian
 }
-100551 = {
-	name="Lvov"
-	culture = ruthenian
-}
-100553 = {
-	name="Matveyev"
-	culture = ruthenian
-}
-100555 = {
-	name="Meshchersky"
-	culture = ruthenian
-}
 100556 = {
 	name="Kunev"
 	culture = cuman
@@ -16924,10 +16811,6 @@
 100566 = {
 	name="Kipchak"
 	culture = cuman
-}
-100577 = {
-	name="Bogolyubsky"
-	culture = ruthenian
 }
 100579 = {
 	name="Anttonen"
@@ -17008,10 +16891,6 @@
 100608 = {
 	name="Kiskunság"
 	culture = cuman
-}
-100613 = {
-	name="Volynsky"
-	culture = ruthenian
 }
 100614 = {
 	name="Bortz"
@@ -21089,86 +20968,6 @@
 	name="Sehul"
 	culture = ethiopian
 }
-101797 = {
-	name="Andreievich"
-	culture = ruthenian
-}
-101798 = {
-	name="Bryachislavich"
-	culture = ruthenian
-}
-101799 = {
-	name="Igorevich"
-	culture = ruthenian
-}
-101800 = {
-	name="Ivanovich"
-	culture = ruthenian
-}
-101801 = {
-	name="Iziaslavich"
-	culture = ruthenian
-}
-101802 = {
-	name="Mikhailovich"
-	culture = ruthenian
-}
-101803 = {
-	name="Mstislavich"
-	culture = ruthenian
-}
-101804 = {
-	name="Nikitich"
-	culture = ruthenian
-}
-101805 = {
-	name="Rostislavich"
-	culture = ruthenian
-}
-101806 = {
-	name="Sviatoslavich"
-	culture = ruthenian
-}
-101807 = {
-	name="Vasilievich"
-	culture = ruthenian
-}
-101808 = {
-	name="Viacheslavich"
-	culture = ruthenian
-}
-101809 = {
-	name="Vladimirovich"
-	culture = ruthenian
-}
-101810 = {
-	name="Vseslavich"
-	culture = ruthenian
-}
-101811 = {
-	name="Vsevolodovich"
-	culture = ruthenian
-}
-101812 = {
-	name="Vysheslavich"
-	culture = ruthenian
-}
-101813 = {
-	name="Yaroslavich"
-	culture = ruthenian
-}
-101814 = {
-	name="Yurievich"
-	culture = ruthenian
-}
-101815 = {
-	name="Dmitrievich"
-	culture = ruthenian
-}
-101816 = {
-	name="Fedorovich"
-	culture = ruthenian
-}
 101817 = {
 	name="Antelminelli"
 	culture = italian
@@ -22086,10 +21885,6 @@
 	name="Ystrad Clud"
 	culture = welsh
 }
-102001 = {
-	name="Davidovich"
-	culture = ruthenian
-}
 102004 = {
 	name="de Sancerre"
 	culture = frankish
@@ -22237,10 +22032,6 @@
 102036 = {
 	name="de Moncade"
 	culture = italian
-}
-102037 = {
-	name="Vsevolodich"
-	culture = ruthenian
 }
 1020101 = {
 	name = "de Bellême"
@@ -22821,47 +22612,6 @@
 1029999 = {
 	name="de Traînel"
 	culture = frankish
-}
-
-1029115 = {
-	name="Volhynsky"
-	culture = ruthenian
-}
-1029116 = {
-	name="Kryvich"
-	culture = ruthenian
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 3 0 5 5
-		}
-		religion="slavic_pagan"
-	}
-}
-1029117 = {
-	name="Dregovich"
-	culture = ruthenian
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 7 0 5 5
-		}
-		religion="slavic_pagan"
-	}
-}
-1029118 = {
-	name="Vyatich" #Moskva
-	culture = ruthenian
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 11 0 2 2
-		}
-		religion="slavic_pagan"
-	}
 }
 1029119 = {
 	name="Kaysite"
@@ -25308,44 +25058,6 @@
 		religion=catholic
 	}
 }
-
-1029136 = {
-	name= "Slovensky"
-	culture = ruthenian
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 17 1 7 7
-		}
-		religion="slavic_pagan"
-	}
-}
-1029137 = {
-	name= "Radimich"
-	culture = ruthenian
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 3 5 1 1
-		}
-		religion="slavic_pagan"
-	}
-}
-1029138 = {
-	name= "Seversky"
-	culture = ruthenian
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 3 0 7 7
-		}
-		religion="slavic_pagan"
-	}
-}
-
 1029139 = {
 	name= "Sarakid"
 	culture = samoyed
@@ -26168,10 +25880,6 @@
 		religion="norse_pagan"
 	}
 }
-1029167 = {
-	name="Buzhan"
-	culture = ruthenian
-}
 1042817 = {
 	name="Brycheiniog" #3rd
 	culture = welsh
@@ -26404,10 +26112,6 @@
 1042063 = {
 	name="de Hesdin"
 	culture = frankish
-}
-1042648 = {
-	name="Danilovich"
-	culture = ruthenian
 }
 
 1043000 = {

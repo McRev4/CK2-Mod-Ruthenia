@@ -13814,30 +13814,59 @@ e_tartaria = {
 			color2={ 255 255 255 }
 			
 			capital = 559 # Crimea
-		
+			
 			c_crimea = {
 				color={ 250 210 104 }
 				color2={ 255 255 255 }
 			
-				b_bakhchisaray = {
+				b_kezlev = {
 				}
 				b_aqmescit = {
 					holy_site = tengri_pagan
 					holy_site = tengri_pagan_reformed				
 				}
-				b_dzhankoy = {
+				b_aqseyh = {
 				}
 				b_saq = {
 				}
-				b_perekop = {
+				b_buyuk_onlar = {
+				}
+				b_curci = {
+				}
+			}
+			
+			c_arabat = {
+				color = { 212 174 69 }
+				color2 = { 255 255 255 }
+				
+				b_arabat = {
+				}
+			}
+			c_eski_qirim = {
+				color = { 127 101 51 }
+				color2 = { 255 255 255 }
+				
+				b_solkhat = {
+				}
+				b_tafgros = {
 				}
 				b_qarasuvbazar = {
 				}
-				b_kezlev = {
+				b_or_qapi = {
 				}
-				b_qurman = {
+				b_cankoy = {
+				}
+				b_seyitler = {
 				}
 			}
+		}
+		
+		d_cherson = {
+			color={ 188 91 154 }
+			color2={ 255 255 20 }
+			
+			capital = 560 # Cherson
+			
 			c_theodosia = {
 				color={ 190 93 156 }
 				color2={ 255 255 20 }

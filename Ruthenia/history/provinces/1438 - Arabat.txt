@@ -1,0 +1,20 @@
+# 1438 - Arabat
+
+# County Title
+title = c_arabat
+
+# Settlements
+max_settlements = 1
+b_arabat = castle
+
+# Misc
+culture = khazar
+religion = tengri_pagan
+
+# History
+
+930.1.1 = { culture = cuman } 
+
+1227.1.1 = { religion = sunni } 
+
+1238.1.1 = { culture = mongol } 

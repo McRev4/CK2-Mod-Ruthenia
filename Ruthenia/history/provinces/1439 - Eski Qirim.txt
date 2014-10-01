@@ -1,0 +1,31 @@
+# 1439 - Eski Qirim
+
+# County Title
+title = c_eski_qirim
+
+# Settlements
+max_settlements = 6
+
+b_solkhat = castle
+b_tafgros = city
+
+#b_seyitler = temple
+#b_qarasuvbazar = city
+#b_or_qapi = castle
+#b_cankoy = castle
+
+# Misc
+culture = khazar
+religion = tengri_pagan
+
+# History
+
+930.1.1 = { culture = cuman } 
+
+1200.1.1 = { b_qarasuvbazar = city }
+
+1227.1.1 = { religion = sunni } 
+
+1238.1.1 = { culture = mongol } 
+
+1450.1.1 = { b_or_qapi = castle }

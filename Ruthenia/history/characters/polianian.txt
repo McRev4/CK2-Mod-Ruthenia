@@ -1,0 +1,12 @@
+159718 = {
+	name="Vyacheslav"
+	religion="slavic_pagan"
+	culture="polianian"
+	dynasty=1029167
+	830.1.1={
+		birth="830.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}

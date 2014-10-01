@@ -1,0 +1,47 @@
+6868 = {
+	name="Vsebor"
+	dynasty=1029117
+	religion="slavic_pagan"
+	culture=dregovich
+	trait=content
+	father=160064
+	845.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}
+
+6825 = {
+	name="Yaropolk"
+	religion="slavic_pagan"
+	culture="dregovich"
+	trait = content
+	trait = cynical
+	dynasty=1029117
+	father=160064
+	841.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+
+159720 = {
+	name="Bogdan"
+	religion="slavic_pagan"
+	culture="dregovich"
+	dynasty=1029117
+	trait = content
+	trait = craven
+	trait = cynical
+	father=160064
+	840.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}

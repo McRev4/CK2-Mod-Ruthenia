@@ -1,0 +1,43 @@
+159719 = {
+	name="Iziaslav"
+	religion="slavic_pagan"
+	culture="krivich"
+	dynasty=1029116
+	father=160050
+	835.1.1={
+		birth="835.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+6869 = {
+	name="Radoslav"
+	religion="slavic_pagan"
+	culture=krivich
+	dynasty=1029116
+	father=160134
+	trait=content
+	840.1.1={
+		birth=yes
+	}
+	893.1.1={
+		death=yes
+	}
+}
+
+6859 = {
+	name="Yelisey"
+	dynasty=1029116
+	religion="slavic_pagan"
+	culture=krivich
+	father=160051
+	trait=content
+	845.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}

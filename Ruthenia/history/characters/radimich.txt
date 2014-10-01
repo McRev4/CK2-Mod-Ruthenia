@@ -1,0 +1,44 @@
+6870 = {
+	name="Yaropolk"
+	religion="slavic_pagan"
+	culture=radimich
+	trait=content
+	dynasty=1029137
+	father=160139
+	840.1.1={
+		birth=yes
+	}
+	875.1.1={
+		death=yes
+	}
+}
+
+6889 = {
+	name=Yemelyan # Fantasy
+	religion="slavic_pagan"
+	culture=radimich
+	trait=content
+	dynasty=704
+	830.1.1 = {
+		birth=yes
+	}
+	894.1.1 = {
+		death=yes
+	}
+}
+
+6826 = {
+	name="Gostomysl"
+	religion="slavic_pagan"
+	culture="radimich"
+	dynasty=1029137
+	father=160139
+	trait = content
+	trait = cynical
+	839.1.1={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}

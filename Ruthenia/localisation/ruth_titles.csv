@@ -3,11 +3,11 @@
 d_ulichi;Ulichi;;;;;;;;;;;;;x
 d_ulichi_adj;Ulichian;;;;;;;;;;;;;x
 d_polianians;Polianians;;;;;;;;;;;;;x
-d_polianians_adj;Polianians;;;;;;;;;;;;;x
+d_polianians_adj;Polianian;;;;;;;;;;;;;x
 d_slovenians;Ilmen Slavs;;;;;;;;;;;;;x
 d_slovenians_adj;Ilmen Slavic;;;;;;;;;;;;;x
 d_volhyniani;Volhyniani;;;;;;;;;;;;;x
-d_volhyniani_adj;Volhynians;;;;;;;;;;;;;x
+d_volhyniani_adj;Volhynian;;;;;;;;;;;;;x
 #Duchies
 d_bessarabia;Bessarabia;;;;;;;;;;;;;x
 d_bessarabia_desc;Bessarabian;;;;;;;;;;;;;x
@@ -19,9 +19,9 @@ k_kiev_adj;Kievan;;;;;;;;;;;;;x
 k_novgorod;Novgorod;;;;;;;;;;;;;x
 k_novgorod_adj;Novgorodian;;;;;;;;;;;;;x
 k_muscovy;Muscovy;;;;;;;;;;;;;x
-k_muscovy_adj;Muscovy;;;;;;;;;;;;;x
+k_muscovy_adj;Muscovite;;;;;;;;;;;;;x
 k_galicia_volhynia;Galicia-Volhynia;;;;;;;;;;;;;x
-k_galicia_volhynia;Galicia-Volhynian;;;;;;;;;;;;;x
+k_galicia_volhynia;Galician-Volhynian;;;;;;;;;;;;;x
 k_crimea;Crimea;;;;;;;;;;;;;x
 k_crimea_adj;Crimean;;;;;;;;;;;;;x
 k_carpathian_rus;Carpathian Rus;;;;;;;;;;;;;x
@@ -32,5 +32,5 @@ e_rus_adj;Ruthenian;;;;;;;;;;;;;x
 e_siberia;Siberia;;;;;;;;;;;;;x
 e_siberia_adj;Siberian;;;;;;;;;;;;;x
 e_commonwealth;Commonwealth;;;;;;;;;;;;;x
-e_commonwealth_adj;Commonwealthian;;;;;;;;;;;;;x
+e_commonwealth_adj;Commonwealth;;;;;;;;;;;;;x
 #;;;;;;;;;;;;;x

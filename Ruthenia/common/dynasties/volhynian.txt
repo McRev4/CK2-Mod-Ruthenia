@@ -1,0 +1,57 @@
+#Volhynian culture dynasty names for CK2 Ruthenia mod
+#Volhynian names start at 2,600,000 (2600000)
+
+2600001 = {
+	name="Volynskyi"
+	culture=volhynian
+}
+
+2600002 = {
+	name="Buzhan"
+	culture=volhynian
+}
+
+2600003 = {
+	name="Dulibyan"
+	culture=volhynian
+}
+
+2600004 = {
+	name="Buz'skyi"
+	culture=volhynian
+}
+
+2600005 = {
+	name="Lutskyi"
+	culture=volhynian
+}
+
+2600006 = {
+	name="Styrskyi"
+	culture=volhynian
+}
+
+2600007 = {
+	name="Dorohychynskyi"
+	culture=volhynian
+}
+
+2600008 = {
+	name="Dubenskyi" #From Dubno
+	culture=volhynian
+}
+
+2600009 = {
+	name="Sianskyi"
+	culture=volhynian
+}
+
+2600010 = {
+	name="Kremenetskyi"
+	culture=volhynian
+}
+
+2600011 = {
+	name="Koretskyi"
+	culture=volhynian
+}

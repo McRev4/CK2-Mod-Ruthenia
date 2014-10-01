@@ -1,0 +1,44 @@
+#Krivich culture dynasty names for CK2 Ruthenia mod
+#Krivich names start at 2,800,000 (2800000)
+#Please note that I have no idea how to render Belarusian place-names into English. I'll probably use Ukrainian variants
+#Feel free to fix
+
+2800001 = {
+	name="Polachanyn" #IE one of the Polachanian tribe
+	culture=krivich
+}
+
+2800002 = {
+	name="Smolianyn" #From Smolensk
+	culture=krivich
+}
+
+2800003 = {
+	name="Izborsky"
+	culture=krivich
+}
+
+2800004 = {
+	name="Toropetsky"
+	culture=krivich
+}
+
+2800005 = {
+	name="Rohvolodych"
+	culture=krivich
+}
+
+2800006 = {
+	name="Rahvolodych"
+	culture=krivich
+}
+
+2800007 = {
+	name="Dvinsky" #from Dvina (Daugava) River
+	culture=krivich
+}
+
+2800008 = {
+	name="Chudsky" #From Lake Chudskoe (Peipus)
+	culture=krivich
+}

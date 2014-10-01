@@ -1,0 +1,22 @@
+#Vyatich culture dynasty names for CK2 Ruthenia mod
+#Vyatich names start at 3,200,000 (3200000)
+
+3200001 = {
+	name = "Vyatich"
+	culture = vyatich
+}
+
+3200002 = {
+	name = "Koltesky"
+	culture = vyatich
+}
+
+3200003 = {
+	name = "Dedoslavsky"
+	culture = vyatich
+}
+
+3200004 = {
+	name = "Nerinsky"
+	culture = vyatich
+}

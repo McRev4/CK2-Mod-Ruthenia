@@ -1,0 +1,34 @@
+#Dregovich culture dynasty names for CK2 Ruthenia mod
+#Dregovich names start at 2,700,000 (2700000)
+#Please note that I have no idea how to render Belarusian place-names into English. I'll probably use Ukrainian variants
+#Feel free to fix
+
+2700001 = {
+	name="Drehovych"
+	culture=dregovich
+}
+
+2700002 = {
+	name="Turivskyi"
+	culture=dregovich
+}
+
+2700003 = {
+	name="Pinskyi"
+	culture=dregovich
+}
+
+2700004 = {
+	name="Paleshuk"
+	culture=dregovich
+}
+
+2700005 = {
+	name="Mozyrskyi"
+	culture=dregovich
+}
+
+2700006 = {
+	name="Yaseldskyi" #From Yaselda River
+	culture=dregovich
+}

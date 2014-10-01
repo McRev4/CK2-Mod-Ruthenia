@@ -1,0 +1,27 @@
+#Radimich culture dynasty names for CK2 Ruthenia mod
+#Radimich names start at 3,100,000 (3100000)
+
+3100001 = {
+	name = "Radimich"
+	culture = radimich
+}
+
+3100002 = {
+	name = "Homielsky"
+	culture = radimich
+}
+
+3100003 = {
+	name = "Chacersky"
+	culture = radimich
+}
+
+3100004 = {
+	name = "Vorobyinsky"
+	culture = radimich
+}
+
+3100005 = {
+	name = "Sozhsky" #Sozh River
+	culture = radimich
+}

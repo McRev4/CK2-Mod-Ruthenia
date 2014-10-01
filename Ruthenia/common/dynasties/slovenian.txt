@@ -1,0 +1,52 @@
+#Slovenian (Ilmen Slovianian) culture dynasty names for CK2 Ruthenia mod
+#Slovenian names start at 2,400,000 (2400000)
+
+2400001 = { 
+	name = "Gorodishchensky"
+	culture=slovenian
+}
+
+2400002 = { 
+	name = "Volkhovsky"
+	culture=slovenian
+}
+
+2400003 = { 
+	name = "Ilmensky"
+	culture=slovenian
+}
+
+2400004 = { 
+	name = "Ladozsky" #From Ladoga
+	culture=slovenian
+}
+
+2400005 = { 
+	name = "Rdeysky"
+	culture=slovenian
+}
+
+2400006 = { 
+	name = "Novgorodsky"
+	culture=slovenian
+}
+
+2400007 = { 
+	name = "Lovatsky"
+	culture=slovenian
+}
+
+2400008 = { 
+	name = "Shelonsky"
+	culture=slovenian
+}
+
+2400009 = { 
+	name = "Mstasky" #"From the Msta" Msta is a river that flows into lake Ilmen. Not sure I wrote it right.
+	culture=slovenian
+}
+
+2400010 = { 
+	name = "Vishersky"
+	culture=slovenian
+}

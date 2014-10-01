@@ -13,30 +13,30 @@ volhynian;Volhynian;;;;;;;;;;;;;x
 rusyn;Rusyn;;;;;;;;;;;;;x
 #Rulers
 #ruthenian
-emperor_ruthenian;Velikiy Knyaz;;;;;;;;;;;;;x
-emperor_female_ruthenian;Velika Kniagina;;;;;;;;;;;;;x
+emperor_ruthenian;Samoderzhets;;;;;;;;;;;;;x
+emperor_female_ruthenian;Samoderzhetsia;;;;;;;;;;;;;x
 king_ruthenian;Grand Prince;;;;;;;;;;;;;x
 king_female_ruthenian;Grand Princess;;;;;;;;;;;;;x
 duke_ruthenian;Prince;;;;;;;;;;;;;x
 duke_female_ruthenian;Princess;;;;;;;;;;;;;x
-count_ruthenian;Autonomous Prince;;;;;;;;;;;;;x
-count_female_ruthenian;Autonomous Princess;;;;;;;;;;;;;x
+count_ruthenian;Posadnik;;;;;;;;;;;;;x
+count_female_ruthenian;Posadnitsia;;;;;;;;;;;;;x
 baron_ruthenian;Boyar;;;;;;;;;;;;;x
 baron_female_ruthenian;Boyarina;;;;;;;;;;;;;x
 #ukrainian
-emperor_ukrainian;Velikiy Knyaz;;;;;;;;;;;;;x
-emperor_female_ukrainian;Velika Kniagina;;;;;;;;;;;;;x
+emperor_ukrainian;Samoderzhets;;;;;;;;;;;;;x
+emperor_female_ukrainian;Samoderzhetsia;;;;;;;;;;;;;x
 king_ukrainian;Grand Prince;;;;;;;;;;;;;x
 king_female_ukrainian;Grand Princess;;;;;;;;;;;;;x
 duke_ukrainian;Prince;;;;;;;;;;;;;x
 duke_female_ukrainian;Princess;;;;;;;;;;;;;x
-count_ukrainian;Autonomous Prince;;;;;;;;;;;;;x
-count_female_ukrainian;Autonomous Princess;;;;;;;;;;;;;x
+count_ukrainian;Starosta;;;;;;;;;;;;;x
+count_female_ukrainian;Starosta;;;;;;;;;;;;;x
 baron_ukrainian;Boyar;;;;;;;;;;;;;x
 baron_female_ukrainian;Boyarina;;;;;;;;;;;;;x
 #russian
-king_russian;Velikiy Knyaz;;;;;;;;;;;;;x
-king_female_russian;Velikaya Kniagina;;;;;;;;;;;;;x
+king_russian;Grand Duke;;;;;;;;;;;;;x
+king_female_russian;Grand Duchess;;;;;;;;;;;;;x
 duke_russian;Knyaz;;;;;;;;;;;;;x
 duke_female_russian;Kniagina;;;;;;;;;;;;;x
 count_russian;Graf;;;;;;;;;;;;;x
@@ -44,14 +44,14 @@ count_female_russian;Grafinya;;;;;;;;;;;;;x
 baron_russian;Boyar;;;;;;;;;;;;;x
 baron_female_russian;Boyarina;;;;;;;;;;;;;x
 #rusyn
-emperor_rusyn;Velikiy Knyaz;;;;;;;;;;;;;x
-emperor_female_rusyn;Velika Kniagina;;;;;;;;;;;;;x
+emperor_rusyn;Samoderzhets;;;;;;;;;;;;;x
+emperor_female_rusyn;Samoderzhetsia;;;;;;;;;;;;;x
 king_rusyn;Grand Prince;;;;;;;;;;;;;x
 king_female_rusyn;Grand Princess;;;;;;;;;;;;;x
 duke_rusyn;Prince;;;;;;;;;;;;;x
 duke_female_rusyn;Princess;;;;;;;;;;;;;x
-count_rusyn;Autonomous Prince;;;;;;;;;;;;;x
-count_female_rusyn;Autonomous Princess;;;;;;;;;;;;;x
+count_rusyn;Starosta;;;;;;;;;;;;;x
+count_female_rusyn;Starosta;;;;;;;;;;;;;x
 baron_rusyn;Boyar;;;;;;;;;;;;;x
 baron_female_rusyn;Boyarina;;;;;;;;;;;;;x
 #ulich
@@ -156,25 +156,25 @@ baron_female_krivich;Boyarina;;;;;;;;;;;;;x
 #Titles
 #ruthenian
 barony_of_ruthenian;Boyardom of;;;;;;;;;;;;;x
-county_of_ruthenian;Autonomous Principality of;;;;;;;;;;;;;x
+county_of_ruthenian;Zemlia of;;;;;;;;;;;;;x
 duchy_of_ruthenian;Principality of;;;;;;;;;;;;;x
 kingdom_of_ruthenian;Grand Principality of;;;;;;;;;;;;;x
 empire_of_ruthenian;Grand Principality of ;;;;;;;;;;;;;x
 #ukrainian
 barony_of_ukrainian;Boyardom of;;;;;;;;;;;;;x
-county_of_ukrainian;Autonomous Principality of;;;;;;;;;;;;;x
+county_of_ukrainian;Povit of;;;;;;;;;;;;;x
 duchy_of_ukrainian;Principality of;;;;;;;;;;;;;x
 kingdom_of_ukrainian;Grand Principality of;;;;;;;;;;;;;x
 empire_of_ukrainian;Grand Principality of;;;;;;;;;;;;;x
 #russian
 barony_of_russian;Boyardom of;;;;;;;;;;;;;x
-county_of_russian;Autonomous Principality of;;;;;;;;;;;;;x
+county_of_russian;Uyezd of;;;;;;;;;;;;;x
 duchy_of_russian;Principality of;;;;;;;;;;;;;x
 kingdom_of_russian;Grand Principality of;;;;;;;;;;;;;x
 empire_of_russian;Tsardom of;;;;;;;;;;;;;x
 #rusyn
 barony_of_rusyn;Boyardom of;;;;;;;;;;;;;x
-county_of_rusyn;Autonomous Principality of;;;;;;;;;;;;;x
+county_of_rusyn;Zemlia of;;;;;;;;;;;;;x
 duchy_of_rusyn;Principality of;;;;;;;;;;;;;x
 kingdom_of_rusyn;Grand Principality of;;;;;;;;;;;;;x
 empire_of_rusyn;Grand Principality of;;;;;;;;;;;;;x

@@ -999,3 +999,96 @@ province_event = {
 		culture = rusyn
 	}
 }
+################################
+#Events for Switching Norse (in de jure e_rus) to Ruthenian culture
+#Norse Characters living within e_rus convert to Ruthenian
+#Starts at 3002
+character_event = {
+	id = 3002
+	desc = EVTDESC_3002
+	picture = GFX_evt_viking_throneroom_oldgods
+	
+	trigger = {
+		year = 867
+		NOT = {
+			year = 967
+		}
+		age = 16
+		AND = {
+			#empire = { title = e_rus }
+			top_liege = { de_jure_liege = e_rus }
+			culture = norse
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 400
+	}
+	
+	#Stick to the old ways, Reject!
+	option = {
+		name = EVTOPTA_RUTH_3002 #"My Ancestors would not approve..."
+		prestige = 50
+		random_list = {
+			50 = { }
+			50 = {
+				add_trait = zealous
+				hidden_tooltip = {
+					character_event = {
+						id = 38269
+					}
+				}
+			}
+		}
+		
+	}
+	
+	#Change is good: Accept
+	option = {
+		name = EVTOPTB_RUTH_3002 #""
+		culture = rus
+	}
+}
+
+#Norse characters in e_rus switch to Rus Culture
+province_event = {
+	id = RUTH.3003
+	desc = EVTDESC_RUTH_3003
+	picture = GFX_evt_viking_throneroom_oldgods
+	border = GFX_event_normal_frame_diplomacy
+	
+	trigger = {
+		year = 867
+		culture = norse
+		empire = { title = e_rus }
+		NOT = { year = 967 }
+		OR = {
+			AND = {
+				owner = { top_liege = { culture = norse } }
+				empire = { title = e_rus }
+			}
+			owner = { top_liege = { culture = rus } }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 800
+	}
+
+	option = {
+		name = EVTOPTA_RUTH_3003
+		trigger = {
+			NOT = {
+				owner = { culture = rus }
+			}
+		}
+		culture = rus
+	}
+	option = {
+		name = EVTOPTB_RUTH_3003
+		trigger = {
+			owner = { culture = rus }
+		}
+		culture = rus
+	}
+}

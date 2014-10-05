@@ -37,10 +37,6 @@
 	name="Obolensky"
 	culture = ukrainian
 }
-2000209 = {
-	name="Bogolyubsky"
-	culture = ukrainian
-}
 2000210 = {
 	name="Volynsky"
 	culture = ukrainian

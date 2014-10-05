@@ -37,8 +37,8 @@ baron_female_ukrainian;Boyarina;;;;;;;;;;;;;x
 #russian;;;;;;;;;;;;;;x
 king_russian;Grand Duke;;;;;;;;;;;;;x
 king_female_russian;Grand Duchess;;;;;;;;;;;;;x
-duke_russian;Knyaz;;;;;;;;;;;;;x
-duke_female_russian;Kniagina;;;;;;;;;;;;;x
+duke_russian;Prince;;;;;;;;;;;;;x
+duke_female_russian;Princess;;;;;;;;;;;;;x
 count_russian;Graf;;;;;;;;;;;;;x
 count_female_russian;Grafinya;;;;;;;;;;;;;x
 baron_russian;Boyar;;;;;;;;;;;;;x
@@ -156,25 +156,25 @@ baron_female_krivich;Boyarina;;;;;;;;;;;;;x
 #Titles;;;;;;;;;;;;;;x
 #ruthenian;;;;;;;;;;;;;;x
 barony_of_ruthenian;Boyardom of;;;;;;;;;;;;;x
-county_of_ruthenian;Zemlia of;;;;;;;;;;;;;x
+county_of_ruthenian;Volost of;;;;;;;;;;;;;x
 duchy_of_ruthenian;Principality of;;;;;;;;;;;;;x
 kingdom_of_ruthenian;Grand Principality of;;;;;;;;;;;;;x
 empire_of_ruthenian;Grand Principality of ;;;;;;;;;;;;;x
 #ukrainian;;;;;;;;;;;;;;x
 barony_of_ukrainian;Boyardom of;;;;;;;;;;;;;x
-county_of_ukrainian;Povit of;;;;;;;;;;;;;x
+county_of_ukrainian;Volost of;;;;;;;;;;;;;x
 duchy_of_ukrainian;Principality of;;;;;;;;;;;;;x
 kingdom_of_ukrainian;Grand Principality of;;;;;;;;;;;;;x
 empire_of_ukrainian;Grand Principality of;;;;;;;;;;;;;x
 #russian;;;;;;;;;;;;;;x
 barony_of_russian;Boyardom of;;;;;;;;;;;;;x
-county_of_russian;Uyezd of;;;;;;;;;;;;;x
+county_of_russian;Volost of;;;;;;;;;;;;;x
 duchy_of_russian;Principality of;;;;;;;;;;;;;x
 kingdom_of_russian;Grand Principality of;;;;;;;;;;;;;x
 empire_of_russian;Tsardom of;;;;;;;;;;;;;x
 #rusyn;;;;;;;;;;;;;;x
 barony_of_rusyn;Boyardom of;;;;;;;;;;;;;x
-county_of_rusyn;Zemlia of;;;;;;;;;;;;;x
+county_of_rusyn;Volost of;;;;;;;;;;;;;x
 duchy_of_rusyn;Principality of;;;;;;;;;;;;;x
 kingdom_of_rusyn;Grand Principality of;;;;;;;;;;;;;x
 empire_of_rusyn;Grand Principality of;;;;;;;;;;;;;x

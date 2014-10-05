@@ -214,3 +214,11 @@ EVTDESC_RUTH_1107;At the end of celebration it is time to gather your family tog
 EVTOPTA_RUTH_1107;I'm exited to see all of you again!;;;;;;;;;;;;;x
 EVTOPTB_RUTH_1107;The feast? I like the feasts!;;;;;;;;;;;;;x
 EVTOPTC_RUTH_1107;Uncork the best wines!;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;;x
+EVTDESC_RUTH_3002;For too long have I been gone from home. The Norse manners have become strange to me. I still call myself a Varangian but I feel closer to the Slavs now than the Norse. What has happened?;;;;;;;;;;;;;x
+EVTOPTA_RUTH_3002;I must not forget the Old Ways!;;;;;;;;;;;;;;x
+EVTOPTB_RUTH_3002;I am Rus!;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;;x
+EVTDESC_RUTH_3003;The people of [Root.GetName] no longer practice true Norse ways. They still live the Varangian life but they have become... different.\nThey call themselves Rus.;;;;;;;;;;x
+EVTOPTA_RUTH_3003;A strange occurence...;;;;;;;;;;;;x
+EVTOPTB_RUTH_3003;A good day!;;;;;;;;;;;x

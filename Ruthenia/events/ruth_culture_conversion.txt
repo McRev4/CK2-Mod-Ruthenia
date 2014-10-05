@@ -1004,8 +1004,8 @@ province_event = {
 #Norse Characters living within e_rus convert to Ruthenian
 #Starts at 3002
 character_event = {
-	id = 3002
-	desc = EVTDESC_3002
+	id = RUTH.3002
+	desc = EVTDESC_RUTH_3002
 	picture = GFX_evt_viking_throneroom_oldgods
 	
 	trigger = {

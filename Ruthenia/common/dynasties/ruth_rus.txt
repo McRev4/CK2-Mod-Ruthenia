@@ -1,0 +1,97 @@
+#Rus culture dynasty names for CK2 Ruthenia mod
+#Rus names start at 2,001,500 (2001500)
+#I tried to find names that would work
+
+
+7516 = {
+	name="Oskyldr" #THIS ONE SHOULD BE REMOVED FROM THE MAIN FILE!!!
+	culture = rus
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 14 0 5 5
+		}
+		religion="norse_pagan"
+	}
+	used_for_random = no
+}
+
+2001501 = {
+	name="af Roden" #City in Sweden, also sounds like "Rodez", ie Civitas Rutenorum
+	culture = rus
+}
+
+2001502 = {
+	name="Yngling" #Pritsak says they were in Rostov
+	culture = rus
+}
+
+2001503 = {
+	name = "Ylfing" # AKA Wulfing, Pritsak says they were in Polatsk
+	culture = rus
+}
+
+2001504 = {
+	name = "Kauping" #Kaupang is in Sweden
+	culture = rus
+}
+
+2001505 = {
+	name = "Hede" #"Heath", cf Hedeby
+	culture = rus
+}
+
+2001506 = {
+	name = Mikli #"Great"
+	culture = rus
+}
+
+2001507 = {
+	name = Smiðr #"Smith"
+	culture = rus
+}
+
+2001508 = {
+	name = "Gárdske" #No clue what this one means, maybe "from the fortress". Also in Swedish dynasty names
+	culture = rus
+}
+
+2001509 = {
+	name = "Hárde" #"Hard"
+	culture = rus
+}
+
+2001510 = {
+	name = "Austmaðr" #The name of a missionary from Sweden
+	culture = rus
+}
+2001511 = {
+	name = "Goði" #"Chief"
+	culture = rus
+}
+
+2001512 = {
+	name = "Hrafn" #"Raven"
+	culture = rus
+}
+
+2001513 = {
+	name = Svarti #"Black"
+	culture = rus
+}
+
+2001514 = {
+	name="Hjort" #"Hart", ie deer
+	culture = rus
+}
+
+2001515 = {
+	name = Smjör #"Butter", cf smear
+	culture = rus
+}
+
+2001516 = {
+	name = Skarfr #Name of a Varangian who travelled with Ingvarr east.
+	culture = rus
+}

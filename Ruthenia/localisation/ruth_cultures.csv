@@ -11,6 +11,7 @@ vyatich;Vyatich;;;;;;;;;;;;;x
 slovenian;Ilmen Slav;;;;;;;;;;;;;x
 volhynian;Volhynian;;;;;;;;;;;;;x
 rusyn;Rusyn;;;;;;;;;;;;;x
+rus;Rus;;;;;;;;;;;;;;;;x
 #Rulers;;;;;;;;;;;;;;x
 #ruthenian;;;;;;;;;;;;;;x
 emperor_ruthenian;Samoderzhets;;;;;;;;;;;;;x
@@ -153,6 +154,15 @@ count_krivich;Chief;;;;;;;;;;;;;x
 count_female_krivich;Chieftess;;;;;;;;;;;;;x
 baron_krivich;Boyar;;;;;;;;;;;;;x
 baron_female_krivich;Boyarina;;;;;;;;;;;;;x
+#rus;;;;;;;;;;;;;;;;x
+emperor_rus;Khagan;;;;;;;;;;;;;;;;;;;x
+emperor_female_rus;Khatun;;;;;;;;;;;;x
+king_rus;Grand Prince;;;;;;;;;;;;;;;x
+king_female_rus;Grand Princess;;;;;;;;;;;;x
+duke_rus;Jarl;;;;;;;;;;;;x
+duke_female_rus;Greifynja;;;;;;;;;;;;;;;;x
+count_rus;Chief;;;;;;;;;;x
+count_rus_female;Chieftess;;;;;;;;x
 #Titles;;;;;;;;;;;;;;x
 #ruthenian;;;;;;;;;;;;;;x
 barony_of_ruthenian;Boyardom of;;;;;;;;;;;;;x
@@ -232,3 +242,8 @@ county_of_krivich;Chiefdom of;;;;;;;;;;;;;x
 duchy_of_krivich;High Chiefdom of;;;;;;;;;;;;;x
 kingdom_of_krivich;Principality of;;;;;;;;;;;;;x
 empire_of_krivich;Grand Principality of;;;;;;;;;;;;;x
+#rus;;;;;;;;;;;;;;;;;;x
+county_of_rus;Chiefdom of;;;;;;;;;;;;;;;;;x
+duchy_of_rus;Jarldom of;;;;;;;;;;;;;;;;;x
+kingdom_of_rus;Grand Principality of;;;;;;;;;;;;;x
+empire_of_rus;Khaganate of;;;;;;;;;;;;;;;;x

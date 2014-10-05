@@ -209,7 +209,7 @@ character_event = {
 		
 	option = {
 		name = EVTOPTA_RUTH_1104
-		scaled_wealth = 1.0
+		scaled_wealth = 0.1
 		random_list = {
 			70 = { }
 			30 = {
@@ -231,7 +231,7 @@ character_event = {
 		}
 		name = EVTOPTB_RUTH_1104
 		prestige = -50
-		scaled_wealth = 2
+		scaled_wealth = 0.3
 		random_list = {
 			60 = { }
 			40 = {

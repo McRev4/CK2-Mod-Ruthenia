@@ -1,0 +1,36 @@
+#Ilmen culture dynasty names for CK2 Ruthenia mod
+#Ilmen names start at 2,001,200 (2001200)
+
+1029136 = {
+	name= "Slovensky"
+	culture = slovenian
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 17 1 7 7
+		}
+		religion="slavic_pagan"
+	}
+}
+
+2001200 = {
+	name = "Ilmensky"
+	culture = slovenian
+}
+2001201 = { 
+	name = "Gorodishchensky"
+	culture=slovenian
+}
+2001202 = { 
+	name = "Ladozsky" #From Ladoga
+	culture=slovenian
+}
+2001203 = { 
+	name = "Novgorodsky"
+	culture=slovenian
+}
+2001204 = { 
+	name = "Mstavsky"
+	culture=slovenian
+}

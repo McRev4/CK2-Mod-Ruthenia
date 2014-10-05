@@ -1,0 +1,185 @@
+#Russian culture dynasty names for CK2 Ruthenia mod
+#Russian names start at 2,000,000 (2000000)
+
+863 = {
+	name="Ivannikov"
+	culture = russian
+	used_for_random = no
+}
+
+2000000 = {
+	name="Mikhailov"
+	culture = russian
+}
+2000001 = {
+	name="Fyodyorov"
+	culture = russian
+}
+2000002 = {
+	name="Andreiev"
+	culture = russian
+}
+2000003 = {
+	name="Borisov"
+	culture = russian
+}
+2000004 = {
+	name="Konstantinov"
+	culture = russian
+}
+2000005 = {
+	name="Oksakov"
+	culture = russian
+}
+2000006 = {
+	name="Ovinov"
+	culture = russian
+}
+2000007 = {
+	name="Romanov"
+	culture = russian
+}
+2000008 = {
+	name="Balashov"
+	culture = russian
+}
+2000009 = {
+	name="Petrilov"
+	culture = russian
+}
+2000010 = {
+	name="Tolstoy"
+	culture = russian
+}
+2000011 = {
+	name="Yenikeyev"
+	culture = russian
+}
+2000012 = {
+	name="Bakunin"
+	culture = russian
+}
+2000013 = {
+	name="Matveev"
+	culture = russian
+}
+2000014 = {
+	name="Ignatiev"
+	culture = russian
+}
+2000015 = {
+	name="Chernyshev"
+	culture = russian
+}
+2000016 = {
+	name="Dashkov"
+	culture = russian
+}
+2000017 = {
+	name="Demidov"
+	culture = russian
+}
+2000018 = {
+	name="Alexandrov"
+	culture = russian
+}
+2000019 = {
+	name="Sobakin"
+	culture = russian
+}
+2000020 = {
+	name="Golovin"
+	culture = russian
+}
+2000021 = {
+	name="Gurielov"
+	culture = russian
+}
+2000022 = {
+	name="Khitrov"
+	culture = russian
+}
+2000023 = {
+	name="Kobylin"
+	culture = russian
+}
+2000024 = {
+	name="Lopukhin"
+	culture = russian
+}
+2000025 = {
+	name="Matveyev"
+	culture = russian
+}
+2000026 = {
+	name="Menshikov"
+	culture = russian
+}
+2000027 = {
+	name="Morozov"
+	culture = russian
+}
+2000028 = {
+	name="Naryshkin"
+	culture = russian
+}
+2000029 = {
+	name="Neplyuyev"
+	culture = russian
+}
+2000030 = {
+	name="Panin"
+	culture = russian
+}
+2000031 = {
+	name="Pankeyev"
+	culture = russian
+}
+2000032 = {
+	name="Potyomkin"
+	culture = russian
+}
+2000033 = {
+	name="Pushkin"
+	culture = russian
+}
+2000034 = {
+	name="Shafirov"
+	culture = russian
+}
+2000035 = {
+	name="Sheremetev"
+	culture = russian
+}
+2000036 = {
+	name="Shuvalov"
+	culture = russian
+}
+2000037 = {
+	name="Skuratov"
+	culture = russian
+}
+2000038 = {
+	name="Stolnik"
+	culture = russian
+}
+2000039 = {
+	name="Trubetskoy"
+	culture = russian
+}
+2000040 = {
+	name="Uvarov"
+	culture = russian
+}
+2000041 = {
+	name="Turgenev"
+	culture = russian
+}
+2000042 = {
+	name="Valuyev"
+	culture = russian
+}
+2000043 = {
+	name="Karpivin"
+	culture = russian
+}

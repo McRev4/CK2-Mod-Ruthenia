@@ -1,0 +1,31 @@
+#Ulich culture dynasty names for CK2 Ruthenia mod
+#Ulich names start at 2,000,400 (2000400)
+
+2000400 = {
+	name="Ulych"
+	culture=ulich
+}
+2000401 = {
+	name="Tyverets"
+	culture=ulich
+}
+2000402 = {
+	name="Peresichenskyi"
+	culture=ulich
+}
+2000403 = {
+	name="Dnisterskyi"
+	culture=ulich
+}
+2000404 = {
+	name="Dunaiskyi"
+	culture=ulich
+}
+2000404 = {
+	name="Oleshkinskyi"
+	culture=ulich
+}
+2000405 = {
+	name="Tyvercy"
+	culture = ulich
+}

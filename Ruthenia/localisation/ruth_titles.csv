@@ -33,6 +33,8 @@ e_siberia;Siberia;;;;;;;;;;;;;x
 e_siberia_adj;Siberian;;;;;;;;;;;;;x
 e_commonwealth;Commonwealth;;;;;;;;;;;;;x
 e_commonwealth_adj;Commonwealthian;;;;;;;;;;;;;x
+e_taurica;Taurica;;;;;;;;;;;;;x
+e_taurica_adj;Taurician;;;;;;;;;;;;;x
 #New provinces;;;;;;;;;;;;;;
 PROV1438;Arabat;;;;;;;;;;;;;x
 c_arabat;Arabat;;;;;;;;;;;;;x
@@ -48,3 +50,8 @@ b_seyitler;Seyitler;;;;;;;;;;;;;x
 b_buyuk_onlar;Buyuk Onlar;;;;;;;;;;;;;x
 b_curci;Curci;;;;;;;;;;;;;x
 b_aqseyh;Aqseyh;;;;;;;;;;;;;x
+PROV1440;Taman;;;;;;;;;;;;;x
+c_taman;Taman;;;;;;;;;;;;;x
+d_tmutarakan;Tmutarakan;;;;;;;;;;;;;x
+k_bessarabia;Bessarabia;;;;;;;;;;;;;x
+k_bessarabia_adj;Bessarabian;;;;;;;;;;;;;

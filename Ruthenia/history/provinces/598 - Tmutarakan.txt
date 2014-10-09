@@ -4,16 +4,12 @@
 title = c_tmutarakan
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
 b_tmutarakan = castle
 b_mapa = city
-b_taman = temple 
 
-#b_tumnev = castle
 #b_jevlisia = castle
-#b_sujukqale = castle
-#b_tsemes = castle
 #b_bata = city
 
 culture = khazar

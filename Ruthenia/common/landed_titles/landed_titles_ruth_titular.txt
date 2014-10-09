@@ -162,28 +162,6 @@ k_galicia_volhynia = {
 	}
 }
 
-k_crimea = {
-	color = { 227 115 80 }
-	
-	capital = 559 # Crimea
-	
-	allow = {
-		custom_tooltip = {
-			text = controls_crimea
-			hidden_tooltip = {
-				d_crimea = {
-					owner = { 
-						OR = {
-							is_liege_or_above = ROOT
-							character = ROOT
-						}
-					}
-				}
-			}
-		}
-	}
-}
-
 k_carpathian_rus = {
 	color = { 200 200 200 }
 	

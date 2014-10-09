@@ -1,0 +1,23 @@
+# 1440 - Taman
+
+# County Title
+title = c_taman
+
+# Settlements
+max_settlements = 4
+
+b_taman = castle
+#b_tumnev = temple
+
+#b_sujukqale = castle
+#b_tsemes = castle
+
+culture = khazar
+religion = tengri_pagan
+
+# History
+1015.1.1 = { culture = ruthenian }
+1015.1.1 = { religion = orthodox }
+1117.1.1 = { culture = cuman }
+1117.1.1 = { religion = tengri_pagan }
+1214.1.1 =  { religion = orthodox }

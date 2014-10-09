@@ -1453,28 +1453,6 @@ e_rus = {
 				b_velykisorochyntsi = {
 				}
 			}
-			
-			c_chortitza = {
-				color={ 234 194 88 }
-				color2={ 255 255 255 }
-			
-				b_ltava = {
-				}
-				b_chortitza = {
-				}
-				b_baszmacka = {
-				}
-				b_lubny = {
-				}
-				b_alexandrowsk = {
-				}
-				b_rasumowka = {
-				}
-				b_vosnesjensk = {
-				}
-				b_khorol = {
-				}
-			}
 		}
 		
 		d_turov = {
@@ -1988,6 +1966,372 @@ e_siberia = {
 				b_chizha = {
 				}
 				b_kiya = {
+				}
+			}
+		}
+	}
+}
+
+e_taurica = {
+	color={ 188 91 154 }
+	color2={ 255 255 255 }
+	
+	capital = 559 # Crimea
+	
+	k_crimea = {
+		color = { 227 115 80 }
+		color2={ 255 255 255 }
+		
+		capital = 559 # Crimea
+		
+		tengri_pagan_reformed = 200
+		slavic_pagan_reformed = 50 # Crusade target weight
+		
+		d_crimea = { 
+			color={ 226 186 80 }
+			color2={ 255 255 255 }
+			
+			capital = 559 # Crimea
+			
+			c_crimea = {
+				color={ 250 210 104 }
+				color2={ 255 255 255 }
+			
+				b_kezlev = {
+				}
+				b_aqmescit = {
+					holy_site = tengri_pagan
+					holy_site = tengri_pagan_reformed				
+				}
+				b_aqseyh = {
+				}
+				b_saq = {
+				}
+				b_buyuk_onlar = {
+				}
+				b_curci = {
+				}
+			}
+			
+			c_arabat = {
+				color = { 212 174 69 }
+				color2 = { 255 255 255 }
+				
+				b_arabat = {
+				}
+			}
+			c_eski_qirim = {
+				color = { 127 101 51 }
+				color2 = { 255 255 255 }
+				
+				b_solkhat = {
+				}
+				b_tafgros = {
+				}
+				b_qarasuvbazar = {
+				}
+				b_or_qapi = {
+				}
+				b_cankoy = {
+				}
+				b_seyitler = {
+				}
+			}
+		}
+		
+		d_cherson = {
+			color={ 188 91 154 }
+			color2={ 255 255 20 }
+			
+			capital = 560 # Cherson
+			
+			c_theodosia = {
+				color={ 190 93 156 }
+				color2={ 255 255 20 }
+				
+				b_theodosia = {
+				}
+				b_soldaia = {
+				}
+				b_kimmerikon = {
+				}
+				b_caffa = {
+				}
+				b_caulita = {
+				}
+				b_olyva = {
+				}
+				b_lusta = {
+				}
+				b_funan = {
+				}
+			}
+			c_korchev = {
+				color={ 192 95 158 }
+				color2={ 255 255 20 }
+				
+				b_bosphoros = {
+				}
+				b_panticapea = {
+				}
+				b_cherco = {
+				}
+				b_nymphaion = {
+				}
+				b_chystopillia = {
+				}
+				b_vosporo = {
+				}
+				b_baherove = {
+				}
+				b_zavitne = {
+				}
+			}
+			c_cherson = {
+				color={ 194 97 160 }
+				color2={ 255 255 20 }
+				
+				b_kherson = {
+				}
+				b_doros = {
+				}
+				b_neapol = {
+				}
+				b_kerkinitis = {
+				}
+				b_cembalo = {
+				}
+				b_charax = {
+				}
+				b_sevastoupolis = {
+				}
+				b_kalamita = {
+				}
+			}
+		}
+		
+		d_tmutarakan = {
+			color={ 140 85 90 }
+			color2={ 255 255 255 }
+			
+			capital = 598 # Lower Tmutarakan
+		
+			c_tmutarakan = {
+				color={ 196 99 162 }
+				color2={ 255 255 20 }
+				
+				b_tmutarakan = {
+				}
+				b_mapa = {
+				}
+				b_jevlisia = {
+				}
+				b_bata = {
+				}
+			}
+			
+			c_taman = {
+				color = { 1 60 20 }
+				color2 = { 255 255 255 }
+				
+				b_taman = {
+				} 
+				b_tumnev = {
+				}
+				b_tsemes = {
+				}
+				b_sujukqale = {
+				}
+			}
+		}
+	}
+	
+	k_bessarabia = {
+		color={ 210 233 135 }
+		color2={ 255 255 255 }
+		
+		capital = 542 # Olvia
+		
+		d_lower_dniepr = {
+			color={ 210 233 135 }
+			color2={ 255 255 255 }
+			
+			capital = 558 # Lower Dniepr
+			
+			c_chortitza = {
+				color={ 234 194 88 }
+				color2={ 255 255 255 }
+			
+				b_ltava = {
+				}
+				b_chortitza = {
+				}
+				b_baszmacka = {
+				}
+				b_lubny = {
+				}
+				b_alexandrowsk = {
+				}
+				b_rasumowka = {
+				}
+				b_vosnesjensk = {
+				}
+				b_khorol = {
+				}
+			}
+			c_lower_don = {
+				color={ 230 190 84 }
+				color2={ 255 255 255 }
+			
+				b_taganrog = {
+				}
+				b_matveevkurgan = {
+				}
+				b_skorokhod = {
+				}
+				b_latonovo = {
+				}
+				b_vesely = {
+				}
+				b_marfinka = {
+				}
+				b_ryasnoye = {
+				}
+				b_novoazovsk = {
+				}
+			}
+			c_oleshye = {
+				color={ 238 198 92 }
+				color2={ 255 255 255 }
+			
+				b_ochakiv = {
+				}
+				b_bohopol = {
+				}
+				b_odessa = {
+				}
+				b_kocibey = {
+				}
+				b_balta = {
+				}
+				b_sokoly = {
+				}
+				b_akkerman = {
+				}
+				b_nikolayev = {
+				}
+			}
+			c_lukomorie = {
+				color={ 242 202 96 }
+				color2={ 255 255 255 }
+			
+				b_zaporzhye = {
+				}
+				b_kushunum = {
+				}
+				b_huliaipole = {
+				}
+				b_kalmius = {
+				}
+				b_kalchik = {
+				}
+				b_onkhiv = {
+				}
+				b_polohy = {
+				}
+				b_chernihivka = {
+				}
+			}
+			c_lower_dniepr = {
+				color={ 246 206 100 }
+				color2={ 255 255 255 }
+			
+				b_dnieprkherson = {
+				}
+				b_kairy = {
+				}
+				b_kyzylyar = {
+				}
+				b_shagingirei = {
+				}
+				b_kuturogly = {
+				}
+				b_tokmak = {
+				}
+				b_pryazovske = {
+				}
+				b_bilozerka = {
+				}
+			}
+		}
+		
+		d_bessarabia = {
+			color={ 233 222 192 }
+			color2={ 255 255 255 }
+			
+			capital = 542 # Olvia
+			
+			c_olvia = {
+				color={ 229 208 151 }
+				color2={ 255 255 255 }
+			
+				b_olvia = {
+				}
+				b_ophusia = {
+				}
+				b_cetateaalba = {
+				}
+				b_tighina = {
+				}
+				b_causeni = {
+				}
+				b_cainari = {
+				}
+				b_alibei = {
+				}
+				b_basarabeasca = {
+				}
+			}
+			c_belgorod = {
+				color={ 231 210 153 }
+				color2={ 255 255 255 }
+			
+				b_belgorod = {
+				}
+				b_oblucita = {
+				}
+				b_chilia = {
+				}
+				b_palada = {
+				}
+				b_oancea = {
+				}
+				b_scheia = {
+				}
+				b_tigheci = {
+				}
+				b_falciu = {
+				}
+			}
+			c_peresechen = {
+				color={ 225 204 147 }
+				color2={ 255 255 255 }
+			
+				b_iasi = {
+				}
+				b_varzaresti = {			
+				}
+				b_orhei = {
+				}
+				b_chisinau = {
+				}
+				b_harlau = {
+				}
+				b_tuzara = {
+				}
+				b_baltile = {
+				}
+				b_tutora = {
 				}
 			}
 		}

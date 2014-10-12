@@ -5,7 +5,6 @@ title = c_toropets
 
 # Settlements
 max_settlements = 4
-b_staryarussa = castle
 b_toropets = city
 #b_valday = temple
 

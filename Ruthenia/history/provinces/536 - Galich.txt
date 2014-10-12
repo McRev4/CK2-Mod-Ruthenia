@@ -9,10 +9,7 @@ b_galich = castle
 b_dubno = city
 b_lvov = temple
 
-#b_vasyliv = castle
-#b_kolomyia = castle
 #b_ternopil = castle
-#b_buzhsk = castle
 #b_brody = castle
 
 # Misc
@@ -22,5 +19,5 @@ religion = slavic_pagan
 # History
 988.1.1 = { religion = orthodox }
 1000.1.1 = { culture = ruthenian }
-1187.1.1 = { b_vasyliv = castle }
+#1187.1.1 = { b_vasyliv = castle }
 

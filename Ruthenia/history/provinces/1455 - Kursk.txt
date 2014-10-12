@@ -1,0 +1,17 @@
+# 1440 - Taman
+
+# County Title
+title = c_kursk
+
+# Settlements
+max_settlements = 1
+
+culture = khazar
+religion = tengri_pagan
+
+# History
+1015.1.1 = { culture = ruthenian }
+1015.1.1 = { religion = orthodox }
+1117.1.1 = { culture = cuman }
+1117.1.1 = { religion = tengri_pagan }
+1214.1.1 =  { religion = orthodox }

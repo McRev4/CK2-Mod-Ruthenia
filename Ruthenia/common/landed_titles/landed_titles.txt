@@ -10625,48 +10625,6 @@ e_scandinavia = {
 				b_alentagh = {
 				}
 			}
-			c_vodi = {
-				color={ 113 0 0 }
-				color2={ 255 255 255 }
-				
-				finnish = "Inkeri"
-				russian = "Ingriya"
-			
-				b_nyen = {
-					finnish = "Nevanlinna"
-				}
-				b_noteborg = {
-					swedish = "Nöteborg"
-					norse = "Nöteborg"
-					norwegian = "Nøteborg"
-					danish = "Nøteborg"
-					german = "Schlüsselburg"
-					russian = "Oreshek"
-				}
-				b_valaam = {
-					finnish = "Valamo"
-					swedish = "Valamo"
-					norse = "Valamo"
-				}
-				b_jogopera = {
-				}
-				b_ivanovskaya = { # Teusina
-					swedish = "Teusina"
-					norwegian = "Teusina"
-					norse = "Teusina"
-					danish = "Teusina"
-					russian = "Tyavzino"
-				}
-				b_nosok = {
-				}
-				b_liivtsula = {
-				}
-				b_khotchino = {
-					finnish = "Hatsina"
-					swedish = "Hatsina"
-					norse = "Hatsina"
-				}
-			}
 		}
 		d_karelia = {
 			color={ 155 135 45 }
@@ -12181,38 +12139,6 @@ e_wendish_empire = {
 				b_seswegen = {
 				}
 				b_wolmer = {
-				}
-			}
-			c_dorpat = {
-				color={ 115 5 5 }
-				color2={ 255 255 255 }
-				
-				swedish = "Dorpat"
-				norse = "Dorpat"
-				danish = "Dorpat"
-				norwegian = "Dorpat"
-				german = "Dorpat"
-			
-				b_tartu = {
-					swedish = "Dorpat"
-					norse = "Dorpat"
-					danish = "Dorpat"
-					norwegian = "Dorpat"
-					german = "Dorpat"
-				}
-				b_jarva = {
-				}
-				b_fellin = {
-				}
-				b_odenpah = {
-				}
-				b_lais = {
-				}
-				b_vastseliina = {
-				}
-				b_kirrumpa = {
-				}
-				b_vanakastre = {
 				}
 			}
 			c_osel = {

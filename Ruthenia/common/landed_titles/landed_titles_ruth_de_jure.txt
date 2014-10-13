@@ -716,7 +716,7 @@ e_rus = {
 			color={ 60 105 2 }
 			color2={ 255 255 255 }
 			
-			#capital
+			capital = 550 # Minsk
 			
 			c_navahrudak = {
 				color={ 147 164 104 }
@@ -917,7 +917,7 @@ e_rus = {
 			color={ 147 164 104 }
 			color2={ 255 255 255 }
 			
-			#capital
+			capital = 413 # Pskov
 			
 			c_pskov = {
 				color={ 151 167 107 }
@@ -1215,7 +1215,8 @@ e_rus = {
 			color={ 131 146 86 }
 			color2={ 255 255 255 }
 			
-			#capital = 408 # Beloozero
+			#capital = 405 # Chud
+			
 			finnish = "Chud"
 			samoyed = "Chud"
 			mordvin = "Chud"
@@ -1336,7 +1337,7 @@ e_rus = {
 		color={ 188 0 7 }
 		color2={ 255 255 255}
 		
-		capital = 575 # Moskva
+		capital = 582 # Vladimir
 		
 		slavic_pagan_reformed = 300 # Crusade target weight
 		finnish_pagan_reformed = 300 # Crusade target weight
@@ -1433,6 +1434,8 @@ e_rus = {
 			color={ 101 130 50 }
 			color2={ 255 255 255 }
 		
+			capital = 581 # Murom
+
 			c_murom = {
 				color={ 101 130 50 }
 				color2={ 255 255 255 }
@@ -1547,6 +1550,8 @@ e_rus = {
 		d_suzdal = {
 			color={ 199 213 155 }
 			color2={ 255 255 255 }
+		
+			capital = 583 # Suzdal
 		
 			c_galich_mersky = {
 				color={ 190 204 146 }

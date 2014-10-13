@@ -1,5 +1,5 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#East Slavic Tribes;;;;;;;;;;;;;;
+#East Slavic Tribes;;;;;;;;;;;;;;x
 d_ulichi;Ulichi;;;;;;;;;;;;;x
 d_ulichi_adj;Ulichian;;;;;;;;;;;;;x
 d_polianians;Polianians;;;;;;;;;;;;;x
@@ -8,12 +8,12 @@ d_slovenians;Ilmen Slavs;;;;;;;;;;;;;x
 d_slovenians_adj;Ilmen Slavic;;;;;;;;;;;;;x
 d_volhyniani;Volhyniani;;;;;;;;;;;;;x
 d_volhyniani_adj;Volhynians;;;;;;;;;;;;;x
-#Duchies;;;;;;;;;;;;;;
+#Duchies;;;;;;;;;;;;;;x
 d_bessarabia;Bessarabia;;;;;;;;;;;;;x
 d_bessarabia_desc;Bessarabian;;;;;;;;;;;;;x
 d_lower_dniepr;Lower Dnieper;;;;;;;;;;;;;x
 d_lower_dniepr_adj;Lower Dnieperian;;;;;;;;;;;;;x
-#Kingdoms;;;;;;;;;;;;;;
+#Kingdoms;;;;;;;;;;;;;;x
 k_kiev;Kiev;;;;;;;;;;;;;x
 k_kiev_adj;Kievan;;;;;;;;;;;;;x
 k_novgorod;Novgorod;;;;;;;;;;;;;x
@@ -26,7 +26,7 @@ k_crimea;Crimea;;;;;;;;;;;;;x
 k_crimea_adj;Crimean;;;;;;;;;;;;;x
 k_carpathian_rus;Carpathian Rus;;;;;;;;;;;;;x
 k_carpathian_rus_adj;Carpathian;;;;;;;;;;;;;x
-#Empires;;;;;;;;;;;;;;
+#Empires;;;;;;;;;;;;;;x
 e_rus;Rus;;;;;;;;;;;;;x
 e_rus_adj;Ruthenian;;;;;;;;;;;;;x
 e_siberia;Siberia;;;;;;;;;;;;;x
@@ -35,7 +35,7 @@ e_commonwealth;Commonwealth;;;;;;;;;;;;;x
 e_commonwealth_adj;Commonwealthian;;;;;;;;;;;;;x
 e_taurica;Taurica;;;;;;;;;;;;;x
 e_taurica_adj;Taurician;;;;;;;;;;;;;x
-#New provinces;;;;;;;;;;;;;;
+#New provinces;;;;;;;;;;;;;;x
 PROV1438;Arabat;;;;;;;;;;;;;x
 c_arabat;Arabat;;;;;;;;;;;;;x
 b_arabat;Arabat;;;;;;;;;;;;;x
@@ -54,4 +54,6 @@ PROV1440;Taman;;;;;;;;;;;;;x
 c_taman;Taman;;;;;;;;;;;;;x
 d_tmutarakan;Tmutarakan;;;;;;;;;;;;;x
 k_bessarabia;Bessarabia;;;;;;;;;;;;;x
-k_bessarabia_adj;Bessarabian;;;;;;;;;;;;;
+k_bessarabia_adj;Bessarabian;;;;;;;;;;;;;x
+d_beloozero;Chud;;;;;;;;;;;;;x
+d_beloozero_adj;Chudian;;;;;;;;;;;;;x

@@ -40,3 +40,110 @@
 		death="900.1.1"
 	}
 }
+
+82267 = {
+	name="Bogdan"
+	dynasty=9125
+	father=82266
+	religion="slavic_pagan"
+	culture="volhynian"
+	846.1.1={
+		birth="846.1.1"
+	}
+	927.1.1={
+		death="927.1.1"
+	}
+
+
+}
+
+82268 = {
+	name="Yaroslav"
+	dynasty=9125
+	father=82267
+	religion="slavic_pagan"
+	culture="volhynian"
+	910.1.1={
+		birth="910.1.1"
+	}
+	977.1.2={
+		death="977.1.2"
+	}
+
+
+}
+
+82270 = {
+	name="Vlastimil"
+	dynasty=9125
+	father=82269
+	religion="slavic_pagan"
+	culture="volhynian"
+	909.1.1={
+		birth="909.1.1"
+	}
+	977.1.2={
+		death="977.1.2"
+	}
+
+
+}
+
+82272 = {
+	name="Miroslav"
+	dynasty=9125
+	father=82271
+	religion="slavic_pagan"
+	culture="volhynian"
+	911.1.1={
+		birth="911.1.1"
+	}
+	977.1.2={
+		death="977.1.2"
+	}
+}
+
+#CHARACTERS ADDED WITH CHARLEMAGNE
+#THESE MAY NEED TO GO IN DIFFERENT FILES BASED ON POSITION
+#SOMEONE WITH CHARLEMAGNE EXPANSION PLEASE DOUBLE CHECK
+
+194136 = {
+	name = "Briachislav"
+	dynasty = 1029167
+	religion = slavic_pagan
+	culture = volhynian
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194137 = {
+	name = "Svetozar"
+	dynasty = 1029167
+	religion = slavic_pagan
+	culture = volhynian
+	father = 194136
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+
+194139 = {
+	name = "Dobrava"
+	female = yes
+	dynasty = 1045024
+	religion = slavic_pagan
+	culture = volhynian
+	750.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+

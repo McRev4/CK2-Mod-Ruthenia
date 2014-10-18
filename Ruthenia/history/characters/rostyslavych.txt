@@ -1,0 +1,300 @@
+125024 = {
+	name="Ivan"
+	dynasty=190000003
+	religion="orthodox"
+	culture="ruthenian"
+	father=9130
+	1090.1.2={
+		birth="1090.1.2"
+	}
+	1141.1.2={
+		death="1141.1.2"
+	}
+}
+
+125025 = {
+	name="Vasilko"
+	dynasty=190000003
+	religion="orthodox"
+	culture="ruthenian"
+	father=222504
+	trait="bastard"
+	1170.1.2={
+		birth="1170.1.2"
+	}
+	1187.1.2={
+	add_spouse=125056
+	}
+	1188.1.2={
+	remove_spouse=125056
+	}
+	1241.1.2={
+		death="1241.1.2"
+	}
+}
+
+125099 = {
+	name="Irina"
+	female=yes
+	dynasty=190000003
+	religion="orthodox"
+	culture="ruthenian"
+	father=9128
+	1088.1.2={
+		birth="1088.1.2"
+	}
+	1130.1.2={
+		death="1130.1.2"
+	}
+}
+
+125100 = {
+	name="Maria"
+	female=yes
+	dynasty=190000003
+	religion="orthodox"
+	culture="ruthenian"
+	father=9128
+	1097.1.2={
+		birth="1097.1.2"
+	}
+	1140.1.2={
+		death="1140.1.2"
+	}
+}
+
+222500 = {
+	name="Yaroslav" #Osmomysl
+	dynasty=190000003
+	religion="orthodox"
+	culture="ruthenian"
+	father=222502
+	mother=219525
+	1135.1.2={
+		birth="1135.1.2"
+		give_nickname = nick_osmomysl
+	}
+	1135.1.2={
+	add_spouse = 222501
+	}
+	1187.10.1={
+		death="1187.10.1"
+	}
+}
+
+222502 = {
+	name="Vladimirko"
+	# AKA: Vladimirko
+	dynasty=190000003
+	religion="orthodox"
+	culture="ruthenian"
+	father=9128
+	1104.1.2={
+		birth="1104.1.2"
+	}
+	1117.1.2={
+	add_spouse=219525
+	}
+	1153.1.2={
+		death="1153.1.2"
+	}
+}
+
+222504 = {
+	name="Vladimir"
+	dynasty=190000003
+	religion="orthodox"
+	culture="ruthenian"
+	trait="lustful"
+	trait="gluttonous"
+	trait="slothful"
+	father=222500
+	mother=222501
+	1151.1.4={
+		birth="1151.1.4"
+	}
+	1167.1.4={
+	add_spouse=222505
+	}
+	1199.1.4={
+		death="1199.1.4"
+	}
+}
+
+222506 = {
+	name="Oleg"
+	dynasty=190000003
+	religion="orthodox"
+	culture="ruthenian"
+	trait="bastard"
+	father=222500
+	1162.1.2={
+		birth="1162.1.2"
+	}
+	1189.1.2={
+		death="1189.1.2"
+	}
+}
+
+222509 = {
+	name="Viacheslava"
+	# AKA: Vyacheslava
+	female = yes
+	dynasty=190000003
+	religion="orthodox"
+	culture="ruthenian"
+	father=222500
+	mother=222501
+	1155.1.2={
+		birth="1155.1.2"
+	}
+	1205.1.2={
+		death="1205.1.2"
+	}
+}
+
+222510 = {
+	name="Rostislav"
+	dynasty=190000003
+	religion="orthodox"
+	culture="ruthenian"
+	father=222511
+	1150.1.2={
+		birth="1150.1.2"
+	}
+	1189.1.2={
+		death="1189.1.2"
+	}
+}
+
+222511 = {
+	name="Ivan"
+	dynasty=190000003
+	religion="orthodox"
+	culture="ruthenian"
+	father=222512
+	1120.1.2={
+		birth="1120.1.2"
+	}
+	1161.1.2={
+		death="1161.1.2"
+	}
+}
+
+222512 = {
+	name="Rostislav"
+	dynasty=190000003
+	religion="orthodox"
+	culture="ruthenian"
+	father=9128
+	1098.1.2={
+		birth="1098.1.2"
+	}
+	1129.1.2={
+		death="1129.1.2"
+	}
+}
+
+222631 = {
+	name="Yefrosinia"
+	# AKA: Eufrosinia
+	female = yes
+	dynasty=190000003
+	religion="orthodox"
+	culture="ruthenian"
+	father=222500
+	mother=222501
+	1152.1.2={
+		birth="1152.1.2"
+	}
+	1202.1.2={
+		death="1202.1.2"
+	}
+}
+
+670 = {
+	name="Rostislav" #First of Rostyslavychi
+	dynasty=190000003
+	religion="orthodox"
+	culture="ruthenian"
+	father=634
+	1038.1.2={
+		birth="1038.1.2"
+	}
+    1057.1.1={
+		add_spouse=41201
+    }
+	1067.2.3={
+		death="1067.2.3"
+	}
+}
+
+9126 = {
+	name="Rurik"
+	dynasty=190000003
+	religion="orthodox"
+	culture="ruthenian"
+	father=670
+    mother=41201
+	1058.1.2={
+		birth="1058.1.2"
+	}
+	1092.1.2={
+		death="1092.1.2"
+	}
+}
+
+9128 = {
+	name="Volodar"
+	dynasty=190000003
+	religion="orthodox"
+	culture="ruthenian"
+	father=670
+    mother=41201
+	1060.1.2={
+		birth="1060.1.2"
+	}
+	1124.3.19={
+		death="1124.3.19"
+	}
+}
+
+9130 = {
+	name="Vasilko"
+	dynasty=190000003
+	religion="orthodox"
+	culture="ruthenian"
+	father=670
+    mother=41201
+	1066.1.2={
+		birth="1066.1.2"
+	}
+	1098.1.2={
+		give_nickname="nick_the_blind"
+		trait="blinded"
+	}
+	1124.1.2={
+		death="1124.1.2"
+	}
+}
+
+98022 = {
+	name="Yaroslava"
+	female = yes
+	dynasty=190000003
+	martial=2
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="ruthenian"
+	father=222500
+	mother=222501
+	1154.1.2={
+		birth="1154.1.2"
+	}
+	1180.1.2={
+		death="1180.1.2"
+	}
+}
+

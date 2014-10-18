@@ -1,0 +1,194 @@
+#Rus dynasties--------------------------------------------------
+190000001 = {
+	name="Romanovych"
+	culture=ruthenian
+	coat_of_arms = {
+		template = 0 #Plain, one layer
+		layer = {
+			texture = 2 # pattern3
+			texture_internal = 3 #4th tile
+			emblem = 0
+			color = 8 #orange
+			color = 0 #Or (gold)
+			color = 2 #Azure (blue)
+		}
+	}
+	used_for_random = no
+}
+190000002 = { #Izyaslavychi of Polatsk
+	name = "Izyaslavych"
+	culture=ruthenian
+	coat_of_arms = {
+		template = 0 #Plain, one layer
+			layer = {
+				texture = 4 #pattern4
+				texture_internal = 43 #44th tile
+				color = 7 #maroon
+				color = 1 #white
+			}
+	}
+	used_for_random = no
+}
+
+190000003 = { #Rostyslavychi of Galicia
+	name = "Rostyslavych"
+	culture = ruthenian
+	coat_of_arms = {
+		template = 1 #Per Fess, two layers
+		layer = {
+			texture = 2 #pattern3
+			texture_internal = 2 #3rd
+			color = 1 #white
+			color = 2 #blue
+			color = 5 #black
+			
+			#texture = 1 #pattern2
+			#texture_internal = 2 #3rd
+			#color = 1 #white
+			#color = 2 #blue
+			#color = 5 #black
+			
+			#color = 1 #white
+			#color = 5 #black
+			#color = 2 #blue
+		}
+		layer = {
+			texture = 1 #pattern2
+			texture_internal = 15 #16th
+			color = 12 #brown
+			color = 2 #blue
+			color = 11 #dark green
+		}
+	}
+	used_for_random = no
+}
+
+190000004 = { #Mstyslavychi of Volhynia and other places
+	name = "Mstyslavych"
+	culture = ruthenian
+	coat_of_arms = {
+		template = 0 #plain
+		layer = {
+			texture = 2 #pattern 3
+			texture_internal = 0 #first
+			color = 0 #gold
+			color = 13 #turqouise
+			color = 2 #blue 
+		}
+	}
+	used_for_random = no
+}
+
+190000005 = { #Yurievich of Suzdal
+	name = "Yurievich"
+	culture = ruthenian
+	coat_of_arms = {
+		template = 0 #plain
+		layer = {
+			texture = 4 #pattern4
+			texture_internal = 30 #31st
+			color = 0 #gold
+			color = 7 #sanguine
+		}
+	}
+	used_for_random = no
+}
+
+190000006 = { #Olhovychi of Chernihiv
+	name = "Olhovych"
+	culture = ruthenian
+	coat_of_arms = {
+		template = 0 #plain
+		layer = {
+			texture = 4 #pattern4
+			texture_internal = 29 #30th
+			color = 0 #gold
+			color = 13 #turquoise
+		}
+	}
+	used_for_random = no
+}
+
+190000007 = { #Daniilovichi of Moscow
+	name = "Daniilovich"
+	culture = ruthenian
+	coat_of_arms = {
+		template = 0 #plain
+		layer = {
+			texture = 4 #pattern4
+			texture_internal = 2 #3rd
+			color = 5 #black
+			color = 3 #red
+			color = 5 #black
+		}
+	}
+	used_for_random = no
+}
+
+190000008 = { #Rostislavichi of Smolensk, Later Chernihiv and other places
+	name = "Rostislavich"
+	culture = ruthenian
+	coat_of_arms = {
+	template = 3 #per cross
+		layer = {
+			texture = 4 #pattern4
+			texture_internal = 20 #21st
+			color = 0 #gold
+			color = 2 #blue
+		}
+		layer = {
+			texture = 2 #pattern 3
+			texture_internal = 9 #10th
+			color = 1 #white
+			color = 5 #black
+			color = 7 #sanguine
+			
+		}
+		layer = {
+			texture = 2 #pattern 3
+			texture_internal = 9 #10th
+			color = 1 #white
+			color = 5 #black
+			color = 7 #sanguine
+
+		}
+		layer = {
+			texture = 4 #pattern4
+			texture_internal = 9 #10th
+			color = 2 #blue
+			color = 0 #gold
+		}
+	}
+	used_for_random = no
+}
+
+190000009 = { #Yaroslavichi of Ryazan/Murom
+	name = "Yaroslavich"
+	culture = ruthenian
+	coat_of_arms = {
+		template = 0 #plain
+		layer = {
+			texture = 4 #pattern4
+			texture_internal = 38 #39th
+			color = 4 #light green
+			color = 11 #dark green
+		}
+	}
+	used_for_random = no
+}
+
+190000010 = { #Ihorevychi of the Poem
+	name = "Ihorevych"
+	culture = ruthenian
+	coat_of_arms = {
+		template = 0 #plain
+		layer = {
+			texture = 2 #pattern3
+			texture_internal = 21 #22nd
+			color = 7 #sanguine
+			color = 2 #blue
+			color = 13 #turquoise
+		}
+	}
+	used_for_random = no
+}

@@ -1,0 +1,8 @@
+#Rus Dynasty Mod Nicknames
+
+nick_monomakh = {}
+nick_the_long_arm = {}
+nick_bogoliubski = {}
+nick_osmomysl = {}
+nick_nevskiy = {}
+nick_bignest = {}

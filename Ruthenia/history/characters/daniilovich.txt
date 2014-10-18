@@ -1,0 +1,224 @@
+472801 = {
+	name="Maria"
+	female = yes
+	dynasty=190000007
+	religion="orthodox"
+	culture="ruthenian"
+	father=472840
+	mother=472841
+	1313.1.2={
+		birth="1313.1.2"
+	}
+	1363.1.2={
+		death="1363.1.2"
+	}
+}
+
+472840 = {
+	name="Ivan"
+	dynasty=190000007
+	stewardship=8
+	religion="orthodox"
+	culture="ruthenian"
+	trait="midas_touched"
+	father=472843
+	1288.1.2={
+		birth="1288.1.2"
+	}
+	1306.1.1={
+	add_spouse = 472841
+	}
+	1332.1.1= {
+	add_spouse = 472842
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+
+472843 = {
+	name="Daniil" #Progenitor of Daniilovichi
+	dynasty=190000005
+	religion="orthodox"
+	culture="ruthenian"
+	father=472844
+	mother=472845
+	1261.1.2={
+		birth="1261.1.2"
+	}
+	1263.11.14={
+	dynasty = 190000007 #Daniilovich
+	}
+	1303.3.4={
+		death="1303.3.4"
+	}
+}
+
+
+472848 = {
+	name="Yuriy"
+	# AKA: Yuri
+	dynasty=190000007
+	religion="orthodox"
+	culture="ruthenian"
+	father=472843
+	1281.1.2={
+		birth="1281.1.2"
+	}
+	1306.1.2={
+	add_spouse=125216
+	}
+	1317.1.2={
+	add_spouse=125500
+	}
+	1325.11.21={
+		death="1325.11.21"
+	}
+}
+
+472849 = {
+	name="Boris"
+	dynasty=190000007
+	religion="orthodox"
+	culture="ruthenian"
+	father=472843
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+472851 = {
+	name="Simeon"
+	# AKA: Semyon
+	dynasty=190000007
+	religion="orthodox"
+	culture="ruthenian"
+	trait="proud"
+	father=472840
+	mother=472841
+	1317.11.7={
+		birth="1317.11.7"
+	}
+	1334.1.2={
+	add_spouse = 472852
+	}
+	1353.1.2={
+		death="1353.1.2"
+	}
+}
+
+472853 = {
+	name="Vasiliy"
+	# AKA: Vasilii
+	dynasty=190000007
+	religion="orthodox"
+	culture="ruthenian"
+	father=472851
+	mother=472852
+	1336.1.2={
+		birth="1336.1.2"
+	}
+	1338.1.2={
+		death="1338.1.2"
+	}
+}
+
+472854 = {
+	name="Daniil"
+	dynasty=190000007
+	religion="orthodox"
+	culture="ruthenian"
+	father=472840
+	mother=472841
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1328.1.2={
+		death="1328.1.2"
+	}
+}
+
+472855 = {
+	name="Ivan"
+	dynasty=190000007
+	religion="orthodox"
+	culture="ruthenian"
+	trait="fair"
+	father=472840
+	mother=472841
+	1326.3.30={
+		birth="1326.3.30"
+	}
+	1359.1.31={
+		death="1359.1.31"
+	}
+}
+
+472856 = {
+	name="Andrei"
+	dynasty=190000007
+	religion="orthodox"
+	culture="ruthenian"
+	father=472840
+	mother=472841
+	1327.7.4={
+		birth="1327.7.4"
+	}
+	1353.1.5={
+		death="1353.1.5"
+	}
+}
+
+472858 = {
+	name="Yevdokia"
+	female = yes
+	dynasty=190000007
+	religion="orthodox"
+	culture="ruthenian"
+	father=472840
+	mother=472841
+	1321.1.2={
+		birth="1321.1.2"
+	}
+	1342.1.2={
+		death="1342.1.2"
+	}
+}
+
+472859 = {
+	name="Feodosia"
+	female = yes
+	dynasty=190000007
+	religion="orthodox"
+	culture="ruthenian"
+	father=472840
+	mother=472842
+	1331.1.2={
+		birth="1331.1.2"
+	}
+	1365.1.2={
+		death="1365.1.2"
+	}
+}
+
+
+472861 = {
+	name="Sofia"
+	female = yes
+	dynasty=190000007
+	religion="orthodox"
+	culture="ruthenian"
+	father=472848
+	mother=125216
+	1306.1.2={
+		birth="1306.1.2"
+	}
+	1356.1.2={
+		death="1356.1.2"
+	}
+}
+

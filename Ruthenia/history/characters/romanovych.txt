@@ -1,0 +1,466 @@
+125104 = {
+	name="Olena"
+	female=yes
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=222520
+	mother=222521
+	1182.1.2={
+		birth="1182.1.2"
+	}
+	1242.1.2={
+		death="1242.1.2"
+	}
+}
+
+125114 = {
+	name="Danylo"
+	dynasty=190000001 #Romanovych
+	religion="orthodox"
+	culture="ruthenian"
+	trait="ambitious"
+	trait="diligent"
+	trait="brave"
+	trait="skilled_tactician"
+	trait="heavy_infantry_leader"
+	trait="quick"
+	father=222520
+	mother=125053
+	1201.1.2={
+		birth="1201.1.2"
+	}
+	1205.6.19={
+		add_claim=d_galich
+		add_claim=d_volhynia
+		add_claim=c_torki
+		add_claim=d_kiev
+	}
+	1218.1.2={
+	add_spouse=125147
+	}
+	1241.1.2={
+		remove_claim=d_kiev
+	}
+	1244.1.2={
+		effect = {
+			spawn_unit = {
+				province = 536 # Galich
+				owner = ROOT
+				leader = ROOT
+				match_character = ROOT
+				match_mult = 0.5
+				attrition = 1.0
+			}
+		}
+	}
+	1246.1.2={
+		effect = {
+			disband_event_forces = yes
+		}
+	}
+	1251.1.2={
+	add_spouse=125307
+	}
+	1264.1.2={
+		death="1264.1.2"
+	}
+}
+
+125115 = {
+	name="Irakli"
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=125114
+	mother=125147
+	1223.1.2={
+		birth="1223.1.2"
+	}
+	1240.1.2={
+		death="1240.1.2"
+	}
+}
+
+125116 = {
+	name="Lev"
+	dynasty=190000001
+	martial=8
+	diplomacy=8
+	religion="orthodox"
+	culture="ruthenian"
+	father=125114
+	mother=125147
+	1228.1.2={
+		birth="1228.1.2"
+	}
+    1251.1.1={
+		add_spouse=98037
+    }
+	1301.1.2={
+		death="1301.1.2"
+	}
+}
+
+125117 = {
+	name="Mikhail"
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=471511
+	mother=125221
+	1283.1.2={
+		birth="1283.1.2"
+	}
+	1286.1.2={
+		death="1286.1.2"
+	}
+}
+
+125118 = {
+	name="Vladimir"
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=473516
+	mother=125157
+	1310.1.2={
+		birth="1310.1.2"
+	}
+	1325.1.2={
+		death="1325.1.2"
+	}
+}
+
+125119 = {
+	name="Anastasia"
+	female=yes
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=125116
+    mother=98037
+	1265.1.2={
+		birth="1265.1.2"
+	}
+	1335.1.2={
+		death="1335.1.2"
+	}
+}
+
+125120 = {
+	name="Sviatoslava"
+	female=yes
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	trait="zealous"
+	father=125116
+    mother=98037
+	1270.1.2={
+		birth="1270.1.2"
+	}
+	1335.1.2={
+		death="1335.1.2"
+	}
+}
+
+125121 = {
+	name="Roman"
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=125114
+	mother=125147
+	1229.1.2={
+		birth="1229.1.2"
+	}
+	1261.1.2={
+		death="1261.1.2"
+	}
+}
+
+125122 = {
+	name="Svarnas"
+	# AKA: Shvarn
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=125114
+	mother=125147
+	1230.1.2={
+		birth="1230.1.2"
+	}
+	1255.1.2={
+	add_spouse=125304
+	}
+	1269.1.2={
+		death="1269.1.2"
+	}
+}
+
+125123 = {
+	name="Mstislav"
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=125114
+	mother=125147
+	1232.1.2={
+		birth="1232.1.2"
+	}
+	1300.1.2={
+		death="1300.1.2"
+	}
+}
+
+125124 = {
+	name="Pereyaslava"
+	female=yes
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=125114
+	mother=125147
+	1231.1.2={
+		birth="1231.1.2"
+	}
+	1283.1.2={
+		death="1283.1.2"
+	}
+}
+
+125125 = {
+	name="Dobroslava"
+	female=yes
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=125114
+	mother=125147
+	1233.1.2={
+		birth="1233.1.2"
+	}
+	1290.1.2={
+		death="1290.1.2"
+	}
+}
+
+125126 = {
+	name="Sofia"
+	female=yes
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=125114
+	mother=125147
+	1234.1.2={
+		birth="1234.1.2"
+	}
+	1290.1.2={
+		death="1290.1.2"
+	}
+}
+
+125127 = {
+	name="Vasylko"
+	dynasty=190000001 #Romanovych
+	religion="orthodox"
+	culture="ruthenian"
+	trait="content"
+	trait="diligent"
+	trait="trusting"
+	trait="fortune_builder"
+	father=222520
+	mother=125053
+	1203.1.2={
+		birth="1203.1.2"
+	}
+	1231.1.2={
+	add_spouse=125189
+	}
+	1269.1.2={
+		death="1269.1.2"
+	}
+}
+
+125128 = {
+	name="Vladimir"
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=125127
+	mother=125189
+	1248.1.2={
+		birth="1248.1.2"
+	}
+	1266.1.2={
+	add_spouse=125062
+	}
+	1289.1.2={
+		death="1289.1.2"
+	}
+}
+
+125129 = {
+	name="Olga"
+	female=yes
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=125127
+	mother=125189
+	1249.1.2={
+		birth="1249.1.2"
+	}
+	1289.1.2={
+		death="1289.1.2"
+	}
+}
+
+222520 = {
+	name="Roman" #the Great
+	dynasty=190000004
+	religion="orthodox"
+	culture="ruthenian"
+	father=222522
+	mother=221514
+	1150.1.2={
+		birth="1150.1.2"
+	}
+	1170.8.19={
+		dynasty=190000001 #Romanovych
+	}
+	1178.1.2={
+	add_spouse=222521
+	}
+	1197.1.2={
+	remove_spouse=222521
+	}
+	1197.1.2={
+	add_spouse=125053
+	}
+	1205.6.19={
+		give_nickname = nick_the_great
+		death="1205.6.19"
+	}
+}
+
+471511 = {
+	name="Yuriy"
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=125116
+    mother=98037
+	1252.1.2={
+		birth="1252.1.2"
+	}
+	1276.1.2={
+		add_spouse=125221
+	}
+	1286.1.2={
+		add_spouse=125986
+	}
+	1308.4.24={
+		death="1308.4.24"
+	}
+}
+
+471512 = {
+	name="Andrii"
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=471511
+	mother=125986
+	1287.1.2={
+		birth="1287.1.2"
+	}
+	1323.1.2={
+		death="1323.1.2"
+	}
+}
+
+471516 = {
+	name="Maria"
+	# AKA: Maria 
+	female = yes
+	dynasty=190000001
+	religion="catholic"
+	culture="ruthenian"
+	father=471511
+	1292.1.2={
+		birth="1292.1.2"
+	}
+	1341.1.2={
+		death="1341.1.2"
+	}
+}
+
+472869 = {
+	name="Anastasia"
+	female = yes
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=471511
+	1301.1.2={
+		birth="1301.1.2"
+	}
+	1365.1.2={
+		death="1365.1.2"
+	}
+}
+
+473516 = {
+	name="Lev"
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=471511
+	mother=125986
+	1288.1.2={
+		birth="1288.1.2"
+	}
+	1306.1.2={
+		add_spouse=125157
+	}
+	1324.1.2={
+		death="1324.1.2"
+	}
+}
+
+473517 = {
+	name="Yefimia"
+	# AKA: Eufemia 
+	female = yes
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=473516
+	mother=125157
+	1308.1.2={
+		birth="1308.1.2"
+	}
+	1349.1.2={
+		death="1349.1.2"
+	}
+}
+
+125056 = {
+	name="Feodora"
+	female=yes
+	dynasty=190000001
+	religion="orthodox"
+	culture="ruthenian"
+	father=222520
+	mother=222521
+	1180.1.2={
+		birth="1180.1.2"
+	}
+	1201.1.2={
+		death="1201.1.2"
+	}
+}
+

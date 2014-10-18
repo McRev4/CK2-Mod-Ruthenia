@@ -11,3 +11,56 @@
 		death=yes
 	}
 }
+
+160059 = {
+	name="Vladislav"
+	religion="slavic_pagan"
+	culture="vyatich"
+	dynasty=1029118
+	father=6834
+	850.1.1={
+		birth="850.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+160060 = {
+	name="Dragan"
+	religion="slavic_pagan"
+	culture="vyatich"
+	dynasty=1029118
+	father=6834
+	851.1.1={
+		birth="851.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+160061 = {
+	name="Gradimir"
+	religion="slavic_pagan"
+	culture="vyatich"
+	dynasty=1029118
+	father=6834
+	852.1.1={
+		birth="852.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+
+160063 = {
+	name="Bojan"
+	religion="slavic_pagan"
+	culture="vyatich"
+	dynasty=1029118
+	816.1.1={
+		birth="816.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}

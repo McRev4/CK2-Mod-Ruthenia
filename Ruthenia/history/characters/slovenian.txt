@@ -42,3 +42,381 @@
 		death=yes
 	}
 }
+
+
+160091 = {
+	name="Ladimir"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father=6829
+	860.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160092 = {
+	name="Radogor"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father=6829
+	861.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160093 = {
+	name="Svyatogor"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father=6831
+	860.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160094 = {
+	name="Tihomir"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father=6831
+	861.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160095 = {
+	name="Godoslav"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father=6832
+	860.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160096 = {
+	name="Vyacheslav"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father=6832
+	861.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160097 = {
+	name="Dobrovlad"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father=6833
+	860.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160098 = {
+	name="Zhiroslav"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father=6833
+	861.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+160109 = {
+	name="Svyatogor"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father=6835
+	851.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160110 = {
+	name="Tverdimir"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father=6835
+	852.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+160062 = {
+	name="Gostevid"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father=160057
+	810.1.1={
+		birth="810.1.1"
+	}
+	865.1.1={
+		death="865.1.1"
+	}
+}
+
+6829 = {
+	name="Vsemil"
+	religion="slavic_pagan"
+	culture="slovenian"
+	trait = content
+	dynasty=1029136
+	father=160062
+	839.1.1={
+		birth=yes
+	}
+	887.1.1={
+		death=yes
+	}
+}
+
+6835 = {
+	name="Dobrozhir"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father=160058
+	trait = content
+	835.1.1={
+		birth=yes
+	}
+	869.1.1={
+		death=yes
+	}
+}
+
+160056 = {
+	name="Krasimir"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father=160057
+	785.1.1={
+		birth="785.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+160057 = {
+	name="Zbignev"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	750.1.1={
+		birth="750.1.1"
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+160058 = {
+	name="Samovlad"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father=160055
+	810.1.1={
+		birth="810.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+160055 = {
+	name="Ljuboslav"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father=160057
+	780.1.1={
+		birth="780.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+
+#CHARACTERS ADDED WITH CHARLEMAGNE
+#THESE MAY NEED TO GO IN DIFFERENT FILES BASED ON POSITION
+#SOMEONE WITH CHARLEMAGNE EXPANSION PLEASE DOUBLE CHECK
+
+160055 = {
+	name="Ljuboslav"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father=160057
+	780.1.1={
+		birth="780.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+160056 = {
+	name="Krasimir"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father=160057
+	785.1.1={
+		birth="785.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+160057 = {
+	name="Zbignev"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father = 194131
+	750.1.1={
+		birth="750.1.1"
+	}
+	812.1.1={
+		death = yes
+	}
+}
+
+194131 = {
+	name="Vysheslav"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	720.1.1={
+		birth = yes
+	}
+	760.1.1={
+		death = yes
+	}
+}
+194132 = {
+	name="Rodislav"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029136
+	father = 194131
+	743.1.1={
+		birth = yes
+	}
+	800.1.1={
+		death = yes
+	}
+}
+194133 = {
+	name="Svetozar"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029116
+	750.1.1={
+		birth = yes
+	}
+	799.1.1={
+		death = yes
+	}
+}
+194134 = {
+	name="Igor"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029117
+	738.1.1={
+		birth = yes
+	}
+	799.1.1={
+		death = yes
+	}
+}
+194135 = {
+	name="Igor"
+	religion="slavic_pagan"
+	culture="slovenian"
+	dynasty=1029117
+	father = 194134
+	764.1.1={
+		birth = yes
+	}
+	822.1.1={
+		death = yes
+	}
+}
+
+194144 = {
+	name = "Svetozar"
+	dynasty = 1029138
+	religion = slavic_pagan
+	culture = slovenian
+	father = 194137
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}
+194145 = {
+	name = "Volodar"
+	dynasty = 1029118
+	religion = slavic_pagan
+	culture = slovenian
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194146 = {
+	name = "Iliya"
+	dynasty = 1029118
+	religion = slavic_pagan
+	culture = slovenian
+	father = 194145
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+
+

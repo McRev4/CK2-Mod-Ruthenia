@@ -1,0 +1,688 @@
+125000 = {
+	name="Vseslav"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=616
+	994.1.2={
+		birth="994.1.2"
+	}
+	1003.1.2={
+		death="1003.1.2"
+	}
+}
+
+125001 = {
+	name="Iziaslav"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=672
+	mother=125095
+	1105.1.2={
+		birth="1105.1.2"
+	}
+	1134.1.2={
+		death="1134.1.2"
+	}
+}
+
+125002 = {
+	name="Vsevolod"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=672
+	mother=125095
+	1100.1.2={
+		birth="1100.1.2"
+	}
+	1162.1.2={
+		death="1162.1.2"
+	}
+}
+
+125003 = {
+	name="Rogvolod"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=680
+	1100.1.2={
+		birth="1100.1.2"
+	}
+	1143.1.2={
+	add_spouse=125135
+	}
+	1171.5.7={
+		death="1171.5.7"
+	}
+}
+
+125004 = {
+	name="Gleb"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=125003
+	mother=125135
+	1145.1.2={
+		birth="1145.1.2"
+	}
+	1186.1.2={
+		death="1186.1.2"
+	}
+}
+
+125005 = {
+	name="Vseslav"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=125003
+	mother=125135
+	1150.1.2={
+		birth="1150.1.2"
+	}
+	1190.1.2={
+		death="1190.1.2"
+	}
+}
+
+125006 = {
+	name="Ivan"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=680
+	1105.1.2={
+		birth="1105.1.2"
+	}
+	1145.1.2={
+		death="1145.1.2"
+	}
+}
+
+125007 = {
+	name="Yevpraxia"
+	female=yes
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	trait="zealous"
+	trait="scholarly_theologian"
+	father=680
+	1120.1.2={
+		birth="1120.1.2"
+	}
+	1175.1.2={
+		death="1175.1.2"
+	}
+}
+
+125008 = {
+	name="Yefrosinia"
+	female=yes
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	trait="zealous"
+	trait="scholarly_theologian"
+	father=682
+	1110.1.2={
+		birth="1110.1.2"
+	}
+	1173.1.2={
+		death="1173.1.2"
+	}
+}
+
+125009 = {
+	name="Anna"
+	female=yes
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=222560
+	mother=125220
+	1190.1.2={
+		birth="1190.1.2"
+	}
+	1230.1.2={
+		death="1230.1.2"
+	}
+}
+
+125010 = {
+	name="Briachislav"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=222560
+	mother=125220
+	1200.1.2={
+		birth="1200.1.2"
+	}
+	1241.1.2={
+		death="1241.1.2"
+	}
+}
+
+125011 = {
+	name="Maria"
+	female=yes
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=125010
+	1221.1.2={
+		birth="1221.1.2"
+	}
+	1270.1.2={
+		death="1270.1.2"
+	}
+}
+
+125012 = {
+	name="Iziaslav"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=125010
+	1222.1.2={
+		birth="1222.1.2"
+	}
+	1264.1.2={
+		death="1264.1.2"
+	}
+}
+
+125013 = {
+	name="Konstantin"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=125010
+	1223.1.2={
+		birth="1223.1.2"
+	}
+	1263.1.2={
+		death="1263.1.2"
+	}
+}
+
+125014 = {
+	name="Mikhail"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=125013
+	1245.1.2={
+		birth="1245.1.2"
+	}
+	1280.1.2={
+		death="1280.1.2"
+	}
+}
+
+125015 = {
+	name="Vasilko"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=125010
+	1225.1.2={
+		birth="1225.1.2"
+	}
+	1297.1.2={
+		death="1297.1.2"
+	}
+}
+
+125016 = {
+	name="Yaroslav"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=125015
+	1265.1.2={
+		birth="1265.1.2"
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+222550 = {
+	name="Vladimir"
+	# AKA: Volodar
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=222552
+	mother=222553
+	1177.1.2={
+		birth="1177.1.2"
+	}
+	1215.1.2={
+		death="1215.1.2"
+	}
+}
+
+222551 = {
+	name="Maria"
+	female = yes
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=222552
+	mother=222553
+	1178.1.2={
+		birth="1178.1.2"
+	}
+	1218.1.2={
+		death="1218.1.2"
+	}
+}
+
+222552 = {
+	name="Vseslav"
+	# AKA: Vsyeslav
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=222554
+	1120.1.2={
+		birth="1120.1.2"
+	}
+	1172.1.2={
+	add_spouse = 222553
+	}
+	1186.1.13={
+		death="1186.1.13"
+	}
+}
+
+222554 = {
+	name="Vasilko"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=682
+	1100.1.2={
+		birth="1100.1.2"
+	}
+	1144.1.2={
+		death="1144.1.2"
+	}
+}
+
+222560 = {
+	name="Vasilko"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=222562
+	1165.1.2={
+		birth="1165.1.2"
+	}
+	1181.1.2={
+	add_spouse=125220
+	}
+	1221.1.2={
+		death="1221.1.2"
+	}
+}
+
+222562 = {
+	name="Briachislav"
+	# AKA: Bryachislav
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=222554
+	1142.1.2={
+		birth="1142.1.2"
+	}
+	1190.1.2={
+		death="1190.1.2"
+	}
+}
+
+222651 = {
+	name="Maria"
+	female = yes
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=222554
+	1125.1.2={
+		birth="1125.1.2"
+	}
+	1175.1.2={
+		death="1175.1.2"
+	}
+}
+
+222790 = {
+	name="Vladimir"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=222792
+	1141.1.2={
+		birth="1141.1.2"
+	}
+	1216.1.2={
+		death="1216.1.2"
+	}
+}
+
+222792 = {
+	name="Volodar"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=672
+	mother=125095
+	1095.1.2={
+		birth="1095.1.2"
+	}
+	1137.1.2={
+		add_spouse=221511
+	}
+	1146.1.1={
+		remove_spouse=221511
+	}
+	1167.1.2={
+		death="1167.1.2"
+	}
+}
+
+222795 = {
+	name="Rostislav"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=672
+	mother=125095
+	1090.1.2={
+		birth="1090.1.2"
+	}
+	1127.1.2={
+	add_spouse = 222796
+	}
+	1165.1.2={
+		death="1165.1.2"
+	}
+}
+
+222797 = {
+	name="Sofia"
+	female = yes
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=222792
+	mother=221511
+	1140.1.2={
+		birth="1140.1.2"
+	}
+	1198.1.2={
+		death="1198.1.2"
+	}
+}
+
+222798 = {
+	name="Gleb"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=222795
+	mother=222796
+	1135.1.2={
+		birth="1135.1.2"
+	}
+	1159.1.2={
+		death="1159.1.2"
+	}
+}
+
+222799 = {
+	name="Sviatoslav"
+	# AKA: Svyatoslav
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=222795
+	mother=222796
+	1140.1.2={
+		birth="1140.1.2"
+	}
+	1196.1.2={
+		death="1196.1.2"
+	}
+}
+
+222801 = {
+	name="Rostislav"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=222799
+	1170.1.2={
+		birth="1170.1.2"
+	}
+	1196.1.2={
+		death="1196.1.2"
+	}
+}
+
+222810 = {
+	name="Vasilko"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=222792
+	mother=221511
+	1142.1.2={
+		birth="1142.1.2"
+	}
+	1222.1.2={
+		death="1222.1.2"
+	}
+}
+
+40604 = {
+	name="Rostislav"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=650
+	mother=40603
+	1070.1.2={
+		birth="1070.1.2"
+	}
+	1130.1.2={
+		death="1130.1.2"
+	}
+}
+
+472845 = {
+	name="Alexandra"
+	# AKA: Aleksandra
+	female = yes
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=125010
+	1220.1.2={
+		birth="1220.1.2"
+	}
+	1270.1.2={
+		death="1270.1.2"
+	}
+}
+
+473512 = {
+	name="Maria"
+	female = yes
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=125016
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1346.1.2={
+		death="1346.1.2"
+	}
+}
+
+616 = {
+	name="Iziaslav"
+	# AKA: Izyaslav
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=608
+	mother=609
+	978.1.2={
+		birth="978.1.2"
+	}
+	1001.1.2={
+		death="1001.1.2"
+	}
+}
+
+642 = {
+	name="Briachislav"
+	# AKA: Bryachislav
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=616
+	997.1.2={
+		birth="997.1.2"
+	}
+	1044.1.2={
+		death="1044.1.2"
+	}
+}
+
+650 = {
+	name="Vseslav"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	trait="cynical"
+	trait="skilled_tactician"
+	father=642
+	1030.1.2={
+		birth="1030.1.2"
+	}
+	1053.1.2={
+	add_spouse=40603
+	}
+	1101.4.14={
+		death="1101.4.14"
+	}
+}
+
+672 = {
+	name="Gleb"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=650
+	mother=40603
+	1053.1.2={
+		birth="1053.1.2"
+	}
+	1090.1.2={
+	add_spouse=125095
+	}
+	1119.9.13={
+		death="1119.9.13"
+	}
+}
+
+674 = {
+	name="Roman"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=650
+	mother=40603
+	1055.1.2={
+		birth="1055.1.2"
+	}
+	1116.1.2={
+		death="1116.1.2"
+	}
+}
+
+676 = {
+	name="Davyd"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=650
+	mother=40603
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1129.1.1={
+		death="1129.1.1"
+	}
+}
+
+678 = {
+	name="Briachislav"
+	# AKA: Boris
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=676
+	1080.1.2={
+		birth="1080.1.2"
+	}
+	1124.1.2={
+	add_spouse=125112
+	}
+	1135.1.2={
+		death="1135.1.2"
+	}
+}
+
+680 = {
+	name="Rogvolod"
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=650
+	mother=40603
+	1066.1.2={
+		birth="1066.1.2"
+	}
+	1128.1.2={
+		death="1128.1.2"
+	}
+}
+
+682 = {
+	name="Sviatoslav"
+	# AKA: Svyatoslav
+	dynasty=190000002
+	religion="orthodox"
+	culture="ruthenian"
+	father=650
+	mother=40603
+	1063.1.2={
+		birth="1063.1.2"
+	}
+	1129.1.2={
+		death="1129.1.2"
+	}
+}
+

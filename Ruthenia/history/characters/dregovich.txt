@@ -45,3 +45,96 @@
 		death=yes
 	}
 }
+
+160064 = {
+	name="Dobromir"
+	religion="slavic_pagan"
+	culture="dregovich"
+	dynasty=1029117
+	816.1.1={
+		birth="816.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+160101 = {
+	name="Bryacheslav"
+	religion="slavic_pagan"
+	culture="dregovich"
+	dynasty=1029117
+	father=159720
+	860.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160102 = {
+	name="Venceslav"
+	religion="slavic_pagan"
+	culture="dregovich"
+	dynasty=1029117
+	father=159720
+	861.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160103 = {
+	name="Yaroslav"
+	religion="slavic_pagan"
+	culture="dregovich"
+	dynasty=1029117
+	father=6825
+	860.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160104 = {
+	name="Budimir"
+	religion="slavic_pagan"
+	culture="dregovich"
+	dynasty=1029117
+	father=6825
+	861.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+
+160137 = {
+	name="Rostislav"
+	religion="slavic_pagan"
+	culture=dregovich
+	dynasty=1029117
+	father=6868
+	862.1.1={
+		birth=yes
+	}
+	905.1.1={
+		death=yes
+	}
+}
+160138 = {
+	name="Kazimir"
+	religion="slavic_pagan"
+	culture=dregovich
+	dynasty=1029117
+	father=6868
+	863.1.1={
+		birth=yes
+	}
+	905.1.1={
+		death=yes
+	}
+}

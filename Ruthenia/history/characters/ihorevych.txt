@@ -1,0 +1,204 @@
+#Ihorevych Dynasty. Originated with Ihor of poetic fame. Tried to take over Halych. FAILED!
+
+222630 = {
+	name="Igor" #Of the Poem. Progenitor of Ihorevychi
+	dynasty=190000006
+	religion="orthodox"
+	culture="ruthenian"
+	father=222632
+	mother=222633
+	1151.4.2={
+		birth="1151.4.2"
+	}
+	1164.2.15={
+		dynasty=190000010
+	}
+	1184.1.2={
+	add_spouse = 222631
+	}
+	1185.3.1={
+		effect = {
+			spawn_unit = {
+				province = 567 # Novgorod-Seversk
+				owner = ROOT
+				leader = ROOT
+				match_character = ROOT
+				match_mult = 0.5
+				attrition = 1.0
+			}
+		}
+	}
+	1187.1.2 = {
+		effect = {
+			disband_event_forces = yes
+		}
+	}
+	11
+	1202.12.29={
+		death="1202.12.29"
+	}
+}
+
+222636 = {
+	name="Oleg"
+	dynasty=190000010
+	religion="orthodox"
+	culture="ruthenian"
+	father=222630
+	1175.1.2={
+		birth="1175.1.2"
+	}
+	1226.1.2={
+		death="1226.1.2"
+	}
+}
+
+222637 = {
+	name="Roman"
+	dynasty=190000010
+	religion="orthodox"
+	culture="ruthenian"
+	father=222630
+	1178.1.2={
+		birth="1178.1.2"
+	}
+	1211.1.2={
+		death="1211.1.2"
+	}
+}
+
+222638 = {
+	name="Sviatoslav"
+	# AKA: Svyatoslav
+	dynasty=190000010
+	religion="orthodox"
+	culture="ruthenian"
+	father=222630
+	1177.1.2={
+		birth="1177.1.2"
+	}
+	1193.1.2={
+	add_spouse=125138
+	}
+	1211.1.2={
+		death="1211.1.2"
+	}
+}
+
+222639 = {
+	name="Rostislav"
+	dynasty=190000010
+	religion="orthodox"
+	culture="ruthenian"
+	father=222630
+	1179.1.2={
+		birth="1179.1.2"
+	}
+	1211.1.2={
+		death="1211.1.2"
+	}
+}
+
+125072 = {
+	name="Iziaslav"
+	dynasty=190000010
+	religion="orthodox"
+	culture="ruthenian"
+	father=222635
+	1186.1.2={
+		birth="1186.1.2"
+	}
+	1255.1.2={
+		death="1255.1.2"
+	}
+}
+
+125073 = {
+	name="Agafya"
+	female=yes
+	dynasty=190000010
+	religion="orthodox"
+	culture="ruthenian"
+	father=222638
+	mother=125138
+	1193.1.2={
+		birth="1193.1.2"
+	}
+	1248.1.2={
+		death="1248.1.2"
+	}
+}
+
+125074 = {
+	name="Ivan"
+	dynasty=190000010
+	religion="orthodox"
+	culture="ruthenian"
+	father=222637
+	1200.1.2={
+		birth="1200.1.2"
+	}
+	1265.1.2={
+		death="1265.1.2"
+	}
+}
+
+125075 = {
+	name="Ivan"
+	dynasty=190000010
+	religion="orthodox"
+	culture="ruthenian"
+	father=125074
+	1230.1.2={
+		birth="1230.1.2"
+	}
+	1285.1.2={
+		death="1285.1.2"
+	}
+}
+
+125076 = {
+	name="Vladimir"
+	dynasty=190000010
+	religion="orthodox"
+	culture="ruthenian"
+	father=125075
+	1260.1.2={
+		birth="1260.1.2"
+	}
+	1303.1.2={
+		death="1303.1.2"
+	}
+}
+
+125077 = {
+	name="Terentiy"
+	dynasty=190000010
+	religion="orthodox"
+	culture="ruthenian"
+	father=125076
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1325.1.2={
+		death="1325.1.2"
+	}
+}
+
+222635 = {
+	name="Vladimir"
+	dynasty=190000010
+	religion="orthodox"
+	culture="ruthenian"
+	father=222630
+	1170.1.2={
+		birth="1170.1.2"
+	}
+	1187.1.2={
+	add_spouse=125400
+	}
+	1212.1.2={
+		death="1212.1.2"
+	}
+}
+

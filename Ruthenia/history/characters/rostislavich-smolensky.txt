@@ -1,0 +1,419 @@
+#Rostislavich House of Smolensk. Appears in game as "Rostislavich"
+
+125154 = {
+	name="Rostislav" #Progenitor of Rostislavich-Smolensky
+	dynasty=190000004
+	religion="orthodox"
+	culture="ruthenian"
+	father=125153
+	1210.1.2={
+		birth="1210.1.2"
+	}
+	1230.1.2={
+		dynasty=190000008 #Rostislavich-Smolensky
+	}
+	1240.1.2={
+		death="1240.1.2"
+	}
+}
+
+125155 = {
+	name="Mikhail"
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=125154
+	1235.1.2={
+		birth="1235.1.2"
+	}
+	1279.1.2={
+		death="1279.1.2"
+	}
+}
+
+125156 = {
+	name="Konstantin"
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=125154
+	1237.1.2={
+		birth="1237.1.2"
+	}
+	1270.1.2={
+		death="1270.1.2"
+	}
+}
+
+125157 = {
+	name="Maria"
+	female=yes
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472505
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+125158 = {
+	name="Mikhail"
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472794
+	mother=125177
+	1270.1.2={
+		birth="1270.1.2"
+	}
+	1290.1.2={
+		death="1290.1.2"
+	}
+}
+
+125159 = {
+	name="Konstantin"
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	trait="chaste"
+	trait="scholar"
+	father=472794
+	mother=472795
+	1282.1.2={
+		birth="1282.1.2"
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+472500 = {
+	name="Ivan"
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472502
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1359.1.2={
+		death="1359.1.2"
+	}
+}
+
+472502 = {
+	name="Alexandr"
+	# AKA: Aleksandr
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472504
+	1258.1.2={
+		birth="1258.1.2"
+	}
+	1313.1.2={
+		death="1313.1.2"
+	}
+}
+
+472504 = {
+	name="Gleb"
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=125154
+	1234.1.2={
+		birth="1234.1.2"
+	}
+	1278.1.2={
+		death="1278.1.2"
+	}
+}
+
+472505 = {
+	name="Roman"
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472504
+	1262.1.2={
+		birth="1262.1.2"
+	}
+	1305.1.2={
+		death="1305.1.2"
+	}
+}
+
+472506 = {
+	name="Vasiliy"
+	# AKA: Vasilii
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472502
+	1291.1.2={
+		birth="1291.1.2"
+	}
+	1314.1.2={
+		death="1314.1.2"
+	}
+}
+
+472507 = {
+	name="Dmitriy"
+	# AKA: Dmitrii
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472502
+	1295.1.2={
+		birth="1295.1.2"
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+472508 = {
+	name="Sviatoslav"
+	# AKA: Svyatoslav
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472500
+	1318.1.2={
+		birth="1318.1.2"
+	}
+	1386.1.2={
+		death="1386.1.2"
+	}
+}
+
+472509 = {
+	name="Vasiliy"
+	# AKA: Vasilii
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472500
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1397.1.2={
+		death="1397.1.2"
+	}
+}
+
+472510 = {
+	name="Gleb"
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472511
+	1295.1.2={
+		birth="1295.1.2"
+	}
+	1340.1.2={
+		death="1340.1.2"
+	}
+}
+
+472511 = {
+	name="Sviatoslav"
+	# AKA: Svyatoslav
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472504
+	1265.1.2={
+		birth="1265.1.2"
+	}
+	1310.1.2={
+		death="1310.1.2"
+	}
+}
+
+472514 = {
+	name="Feodor"
+	# AKA: Fedor
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472511
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1350.1.2={
+		death="1350.1.2"
+	}
+}
+
+472515 = {
+	name="Dmitriy"
+	# AKA: Dmitrii
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472511
+	1305.1.2={
+		birth="1305.1.2"
+	}
+	1355.1.2={
+		death="1355.1.2"
+	}
+}
+
+472516 = {
+	name="Alexandr"
+	# AKA: Aleksandr
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472510
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1370.1.2={
+		death="1370.1.2"
+	}
+}
+
+472517 = {
+	name="Yevpraxia"
+	# AKA: Yevpraksia
+	female = yes
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472514
+	1325.1.2={
+		birth="1325.1.2"
+	}
+	1375.1.2={
+		death="1375.1.2"
+	}
+}
+
+472518 = {
+	name="Ivan"
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472515
+	1330.1.2={
+		birth="1330.1.2"
+	}
+	1380.1.2={
+		death="1380.1.2"
+	}
+}
+
+472640 = {
+	name="Mikhail"
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472792
+	1301.1.2={
+		birth="1301.1.2"
+	}
+	1362.1.2={
+		death="1362.1.2"
+	}
+}
+
+472790 = {
+	name="Vasiliy"
+	# AKA: Vasilii
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	trait="ambitious"
+	trait="wroth"
+	father=472792
+	1300.1.2={
+		birth="1300.1.2"
+	}
+	1336.1.2={
+	add_spouse=472858
+	}
+	1345.1.2={
+		death="1345.1.2"
+	}
+}
+
+472792 = {
+	name="Davyd"
+	# AKA: David
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472794
+	mother=472795
+	1281.1.2={
+		birth="1281.1.2"
+	}
+	1321.1.2={
+		death="1321.1.2"
+	}
+}
+
+472794 = {
+	name="Feodor"
+	# AKA: Fedor the Black
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	trait="zealous"
+	father=125154
+	1238.1.2={
+		birth="1238.1.2"
+	}
+	1261.1.2={
+	add_spouse=125177
+	}
+	1282.1.2={
+	add_spouse=472795
+	}
+	1299.9.19={
+		death="1299.9.19"
+	}
+}
+
+472823 = {
+	name="Olga"
+	female = yes
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472794
+	mother=125177
+	1265.1.2={
+		birth="1265.1.2"
+	}
+	1320.1.2={
+		death="1320.1.2"
+	}
+}
+
+472835 = {
+	name="Maria"
+	female = yes
+	dynasty=190000008
+	religion="orthodox"
+	culture="ruthenian"
+	father=472794
+	mother=125177
+	1260.1.2={
+		birth="1260.1.2"
+	}
+	1300.1.2={
+		death="1300.1.2"
+	}
+}
+
